@@ -240,11 +240,11 @@ body.custom-background { background-color: #5b84cc; }
               <h2 class="widget-title">Menu</h2>
               <ul>
                 <li class="page_item page-item-8 current_page_item"><a href="./index.html">Home</a></li>
-                <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
-                <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
+                <li class="page_item page-item-19"><a href="./../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
-                <li class="page_item page-item-40"><a href="./../about/index.html">About</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
                 <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors</a></li>
+                <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
               </ul>
             </aside>
             <aside id="blossomthemes_email_newsletter_widget-3" class="widget widget_blossomthemes_email_newsletter_widget">
@@ -301,7 +301,7 @@ type="submit"> </form>
                     exchange thoughts on technological advancements needed for a
                     sustainable future.</strong></p>
                 <div style="text-align: center;"><img src="Home_page_photo.png"
-                    alt="" style="width: 556px; height: 230px;"></div>
+                    alt="" style="width: 552px; height: 230px;" role="figure"></div>
                 <p style="text-align: center;"><a href="http://wesyp.org/about"><b><br>
                     </b></a></p>
                 <p style="text-align: center;"><a href="http://wesyp.org/about"><b>About
