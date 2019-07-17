@@ -285,14 +285,10 @@ type="submit"> </form>
         <div id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article id="post-8" class="post-8 page type-page status-publish has-post-thumbnail hentry">
-              <div class="post-thumbnail"> <img src="./../wp-content/uploads/2019/07/WESYP19websitebanner-825x506.png"
-                  class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                  alt="WESYP19websitebanner" style="width: 825px; height: 504px;">
-              </div>
-              <header class="entry-header">
-                <h1 class="entry-title" style="text-align: center;">Home</h1>
-              </header>
-              <!-- .entry-header -->
+              <div style="text-align: center;"><strong><img class="wp-image-32 aligncenter"
+                    src="./../wp-content/uploads/2019/07/2-300x128.png" alt="2"
+                    srcset="./../wp-content/uploads/2019/07/2-300x128.png 300w, ./../wp-content/uploads/2019/07/2.png 691w"
+                    sizes="(max-width: 675px) 100vw, 675px" height="288" width="675"></strong></div>
               <div class="entry-content">
                 <p style="text-align: center;"><strong>West Europe Student-Young
                     Professional Congress (WESYP)</strong> brings together young
@@ -304,15 +300,13 @@ type="submit"> </form>
                     representatives,&nbsp;meet industry leaders of tomorrow and
                     exchange thoughts on technological advancements needed for a
                     sustainable future.</strong></p>
-                <p><img class="alignnone wp-image-31 aligncenter" src="./../wp-content/uploads/2019/07/1-300x133.png"
-                    alt="1" srcset="./../wp-content/uploads/2019/07/1-300x133.png 300w, ./../wp-content/uploads/2019/07/1-768x341.png 768w, ./../wp-content/uploads/2019/07/1.png 813w"
-                    sizes="(max-width: 613px) 100vw, 613px" height="272" width="613"></p>
+                <div style="text-align: center;"><img src="Home_page_photo.png"
+                    alt="" style="width: 556px; height: 230px;"></div>
+                <p style="text-align: center;"><a href="http://wesyp.org/about"><b><br>
+                    </b></a></p>
                 <p style="text-align: center;"><a href="http://wesyp.org/about"><b>About
                       WESYP</b></a></p>
-                <p style="text-align: center;"><strong>Glasgow, United Kingdom<img
-                      class="wp-image-32 aligncenter" src="./../wp-content/uploads/2019/07/2-300x128.png"
-                      alt="2" srcset="./../wp-content/uploads/2019/07/2-300x128.png 300w, ./../wp-content/uploads/2019/07/2.png 691w"
-                      sizes="(max-width: 675px) 100vw, 675px" height="288" width="675"></strong></p>
+                <p style="text-align: center;"><strong>Glasgow, United Kingdom</strong></p>
                 <p style="text-align: center;">WESYP 2019 will take place in
                   Glasgow, UK, a city famed for a rich collection of civic
                   beauty, art, culture, music, as well as a long history of
@@ -333,21 +327,28 @@ type="submit"> </form>
                   Media:</p>
                 <p style="text-align: center;"><a href="http://fb.com/wesypcongress"><span></span></a><a
                     href="http://fb.com/wesypcongress"></a></p>
-                <p style="text-align: center;"><a href="http://fb.com/wesypcongress"><img
+                <br>
+                <div style="text-align: center;"><a href="http://fb.com/wesypcongress"><img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAAAe1BMVEX///89WpjW3Oo6VJPH0OE0UJEmSI33+PuFlLouT5I8WZgsTI+2wNeAkbt3irTw8veWpMa9xtvg5e9vg7BHX5mvutUAM4MnSY5IZJ+frczQ1uTn6/MfRYzFzeBAXZmLm8AWPYgSOYRZb6RleKlwgK1cc6alsMyRocRRaqJ3v8lYAAAETElEQVR4nO2d25aqOhBFlZgoAVEuAm0jXvr6/1949ujzsns3iamYHiQZa74jNUexREMBiwUAAAAAAAAAAAAAAAAAEBlVsvKUpHKgd6gbxj2FNfXhQb1V3wq29BYm2v74iF8pxTi3hJ5RyNLe78jSuQXuk0r7HvZi7upNEL2tX956fnz+z9jmloJ1N3ftZojazq9qPP7+/BvW2J0PEz535abwxE6QybkrN0MyW8G5KzcldkF0EIK+E7sgMghB34ldEBmEoO/ELhhUBiVLu2G4fDH8oetSzhmT2n9ugQhKxrNsvL0U5/3TFx/nj3NRvL683fqGZZn6/3cQgrxLP7fv5XG3/reO9e65SlZlvlEa+i8o08tyU1Y/3L5xylRb+y448ovc/+zcv5QqQd87KMXn4a5dwIIpPz8b1ROm4Dj0phdPlIJeZ/DyZrxoG2IH5VCY1xOioNgQ6glPcBwKk2/Pu4K+ZnDMPneUeoLrIO9IfsEJyoE4IRGaYFdTAqgT9DODjK2I9QTWwW5PrScsQbkkFxWWoCD8hLkn6GUGryd3gj52kC/p9QQlOGzjFpSCfoQGlUE+mv2J/4Zy0cnDDmZ3f8Wsd8/HVf435TmcZUPZ7fWCVbn5lGk2fEM92umfYKZfhznc0izlxoNW/mWQce0M6/7CaUNk/gn2uor2V/LneSd40yylJUvyfr0T5C/qs8R6T56j9i+DvFYvVuxuytOdEv8EX9WCVUqfUvVOMN2qT4OlxaC4f4IbteC7IHfQvwzqBPexd3BrcTMKBAMXDCuD6OAEEAxcEBmEoGsgSAMZhKBrIEgDGfxNQZZNcNFMOBXXqS3+oFkMnlEwLcp8As2AxfEwtUGel09LpeGMgsOT1a4nzZmqnjkzOJCHRZSU6vXEOASfsrgF12f1clscgrVyST+ODO5uXl7hdSi49PLeJXeCVaouJwrBU6csJ44MHgb1XqIQPF8iF6xj76DmynYcGZSaJ0zFILhTf4nGIZgMmivbMQiWV/VOosjgQSMYRQc/NGeJKAS3uuGLCATXL5qzRAwZfL7piolAMGl0808RCJ60tUQgqB3RmzOD7FZMUL9rhvFep7Z487WDIxMTXDXXJup2agv9s1zDurqEacMf4PogBF0DQRrIIARdA0EayCAEXQNBGsggBF0DQRrIIARdA0EayCAEXQNBGsggBF0DQRrIIARdA0EayCAEXQNBGsggBF0DQRrIIARdA0EayCAEXQNBGsggBF0DQRr2GaQ/ENoMXwT1Nys8gOtDlNsJVs1vHaOOBVlj/BbK79QW92gY4VhQ1HZ+i7wdf8Fu6VpwbHNLwUVvkQcT3AqK3tZvcZTqp/A8glPBVGpfP6KnlOI3jlKHgqOQpu/xnWTVt8L9d6kzQSba/oH+fXGoG8YdM2zV75soBvPPYU1NfM3mJFWycswp2SlJTuafk1ie/wAAAAAAAAAAAAAAAAAAf/kPjTijWpDQi6MAAAAASUVORK5CYII="
                       alt="Image result for facebook logo" style="width: 36px; height: 36px;"
-                      class="aligncenter"></a><a href="http://fb.com/wesypcongress">fb.com/wesypcongress</a></p>
-                <p style="text-align: center;"><a href="http://twitter.com/WESYP2019"><img
-                      class="alignnone wp-image-34 aligncenter" src="./../wp-content/uploads/2019/07/4-300x300.png"
-                      alt="4" srcset="./../wp-content/uploads/2019/07/4-300x300.png 300w, ./../wp-content/uploads/2019/07/4-150x150.png 150w, ./../wp-content/uploads/2019/07/4.png 720w"
+                      class="aligncenter"></a><a href="http://fb.com/wesypcongress">fb.com/wesypcongress</a><br>
+                  <br>
+                  <a href="http://twitter.com/WESYP2019"><img class="alignnone wp-image-34 aligncenter"
+                      src="./../wp-content/uploads/2019/07/4-300x300.png" alt="4"
+                      srcset="./../wp-content/uploads/2019/07/4-300x300.png 300w, ./../wp-content/uploads/2019/07/4-150x150.png 150w, ./../wp-content/uploads/2019/07/4.png 720w"
                       sizes="(max-width: 34px) 100vw, 34px" style="width: 29px; height: 29px;"></a><a
-                    href="http://twitter.com/WESYP2019">@WES</a><a href="http://twitter.com/WESYP2019">YP2019</a></p>
-                <p style="text-align: center;">Connect using <strong>#WESYP2019</strong></p>
-                <p style="text-align: center;"><img class="alignnone wp-image-36"
-                    src="./../wp-content/uploads/2019/07/8-300x300.png" alt="8"
-                    srcset="./../wp-content/uploads/2019/07/8-300x300.png 300w, ./../wp-content/uploads/2019/07/8-150x150.png 150w, ./../wp-content/uploads/2019/07/8.png 720w"
+                    href="http://twitter.com/WESYP2019">@WES</a><a href="http://twitter.com/WESYP2019">YP2019</a><br>
+                  <br>
+                  Connect using <strong>#WESYP2019</strong><br>
+                  <br>
+                  <img class="alignnone wp-image-36" src="./../wp-content/uploads/2019/07/8-300x300.png"
+                    alt="8" srcset="./../wp-content/uploads/2019/07/8-300x300.png 300w, ./../wp-content/uploads/2019/07/8-150x150.png 150w, ./../wp-content/uploads/2019/07/8.png 720w"
                     sizes="(max-width: 33px) 100vw, 33px" height="33" width="33">
-                  Or email us at&nbsp; <u><a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a></u></p>
+                  Or email us at&nbsp; <u><a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a></u></div>
+                <dl>
+                  <dt> <br>
+                  </dt>
+                </dl>
                 <p>&nbsp;</p>
               </div>
               <!-- .entry-content --> </article>

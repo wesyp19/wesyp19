@@ -288,8 +288,8 @@ type="submit"> </form>
         <div id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article id="post-40" class="post-40 page type-page status-publish hentry">
-              <header class="entry-header">
-                <h1 class="entry-title">About<img src="banner.png" alt=""></h1>
+              <header class="entry-header"><img src="banner.png" alt=""><br>
+                <br>
               </header>
               <div class="entry-content">
                 <p style="text-align: center;"><strong>West Europe Student-Young
