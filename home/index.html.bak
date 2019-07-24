@@ -286,13 +286,17 @@ type="submit"> </form>
         <div id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article id="post-8" class="post-8 page type-page status-publish has-post-thumbnail hentry">
-              <div style="text-align: center;"><strong><br>
-                </strong></div>
+              <div style="text-align: center;"><br>
+                <span style="color: #3b77fd;"><strong><span style="white-space: nowrap; font-family: Corbel; font-size:25px">West
+                      European Student &amp; Young Professional Congress</span></strong></span></div>
+              <div style="text-align: center;"><span style="color: #3b77fd;"><strong><span
+                      style="white-space: nowrap; font-family: Corbel; font-size:25px"><strong><span
+                          style="color: #234799;"><em>20<sup>th</sup>-21<sup>st</sup>
+                            September, Glasgow UK</em></span></strong></span></strong><em><strong></strong></em></span>
+              </div>
               <div class="entry-content">
-                <!-- Slideshow container -->
                 <div class="slideshow-container">
-                  <!-- Full-width images with number and caption text -->
-                  <div class="mySlides fade"> <img src="img1.jpg" style="width:100%">
+                  <div class="mySlides fade"><img src="img1.jpg" style="width:100%">
                   </div>
                   <div class="mySlides fade"> <img src="img2.jpg" style="width:100%">
                   </div>
@@ -303,12 +307,10 @@ type="submit"> </form>
                   <div style="text-align:center"> <span class="dot" onclick="currentSlide(1)"></span>
                     <span class="dot" onclick="currentSlide(2)"></span> <span class="dot"
                       onclick="currentSlide(3)"></span> </div>
-                  <div style="text-align: center;"><strong>West Europe
-                      Student-Young Professional Congress (WESYP)</strong>
+                  <div style="text-align: center;"><strong>WESYP Congress</strong>
                     brings together young professionals and student members of
                     the Institute of Electrical and Electronics Engineers (IEEE)
-                    from </div>
-                  <div style="text-align: center;">Western Europe. </div>
+                    from Western Europe. </div>
                   <div style="text-align: center;"><br>
                   </div>
                   <p style="text-align: center;"><strong>WESYP 2019 is a
