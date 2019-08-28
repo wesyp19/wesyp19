@@ -5,12 +5,15 @@
     <meta name="viewport" content="width=device-width">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="./../xmlrpc.php">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!--[if lt IE 9]>
 	<script src="./wp-content/themes/twentyfifteen/js/html5.js"></script>	<![endif]-->
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-    <title>Program – WESYP 2019</title>
+    <title>Speakers – WESYP 2019</title>
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Feed" href="./../feed/index.html">
-    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
+    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
+
       href="./../comments/feed/index.html">
     <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.17"}};
@@ -29,13 +32,17 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
-</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
+    <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="genericons-css" href="./../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2"
+    <link rel="stylesheet" id="genericons-css" href="./../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="twentyfifteen-style-css" href="./../wp-content/themes/twentyfifteen/style.css?ver=4.5.17"
+    <link rel="stylesheet" id="twentyfifteen-style-css" href="./../wp-content/themes/twentyfifteen/style.css?ver=4.5.17"
+
       type="text/css" media="all">
     <style id="twentyfifteen-style-inline-css" type="text/css">
 
@@ -150,7 +157,8 @@ img.emoji {
 			}
 		}
 	
-</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+
       type="text/css" media="all">
     <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentyfifteen-ie-css'  href='./wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' /><![endif]-->
@@ -211,21 +219,27 @@ img.emoji {
 		</style>
     <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #5b84cc; }
-</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+
       sizes="32x32">
-    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
+    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
+
       sizes="192x192">
     <link rel="apple-touch-icon-precomposed" href="./../wp-content/uploads/2019/07/cropped-website-icon-180x180.png">
     <meta name="msapplication-TileImage" content="./wp-content/uploads/2019/07/cropped-website-icon-270x270.png">
   </head>
   <body class="page page-id-21 page-template-default custom-background wp-custom-logo">
-    <div id="page" class="hfeed site"> <a class="skip-link screen-reader-text"
+    <div id="page" class="hfeed site"> <a class="skip-link screen-reader-text"
+
         href="#content">Skip to content</a>
       <div id="sidebar" class="sidebar">
         <header id="masthead" class="site-header" role="banner">
-          <div class="site-branding"> <a href="./../index.html" class="custom-logo-link"
-              rel="home" itemprop="url"><img src="./../wp-content/uploads/2019/07/cropped-page-header.png"
-                class="custom-logo" alt="cropped-page-header.png" itemprop="logo"
+          <div class="site-branding"> <a href="./../index.html" class="custom-logo-link"
+
+              rel="home" itemprop="url"><img src="./../wp-content/uploads/2019/07/cropped-page-header.png"
+
+                class="custom-logo" alt="cropped-page-header.png" itemprop="logo"
+
                 height="124" width="248"></a>
             <p class="site-title"><a href="./../index.html" rel="home">WESYP
                 2019</a></p>
@@ -242,42 +256,153 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
                 <li class="page_item page-item-19"><a href="../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+                <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
                 <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
-                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
+                    and Accommodation</a></li>
+                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
+                    and Partners</a></li>
                 <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
               </ul>
             </aside>
-            <aside id="blossomthemes_email_newsletter_widget-3" class="widget widget_blossomthemes_email_newsletter_widget">
-              <h2 class="widget-title">Subscribe to News and Updates</h2>
-              <div class="blossomthemes-email-newsletter-wrapper" id="boxes-1" style="background: ; color:;">
-                <div class="text-holder">
-                  <h3>Hello world!</h3>
-                </div>
-                <form id="blossomthemes-email-newsletter-1" class="blossomthemes-email-newsletter-window-1">
-                  <input name="subscribe-email" class="subscribe-email-1" value=""
-                    placeholder="Your Email" type="text"> <label for="subscribe-confirmation-1">
-                    <div class="subscribe-inner-wrap"> <input class="subscribe-confirmation-1"
-                        name="subscribe-confirmation" id="subscribe-confirmation-1"
-                        required="" type="checkbox"><span class="check-mark"></span>
-                      <span class="text"> By checking this, you agree to our
-                        Privacy Policy. </span> </div>
-                  </label>
-                  <div id="loader-1" style="display: none">
-                    <div class="table">
-                      <div class="table-row">
-                        <div class="table-cell"> <img src="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/loader.gif">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <input name="subscribe-submit" class="subscribe-submit-1" value="Subscribe"
-type="submit"> </form>
-                <div class="bten-response" id="bten-response-1"><span></span></div>
-                <div id="mask-1"></div>
-              </div>
-              <style>#mask-1{position:fixed;width:100%;height:100%;left:0;top:0;z-index:9000;background-color:#000;display:none}#boxes-1 #dialog{width:750px;height:300px;padding:10px;background-color:#fff;font-family:"Segoe UI Light",sans-serif;font-size:15pt}#blossomthemes-email-newsletter-1 input.subscribe-submit-1{color:;background:;margin:10px 0 0 0}#blossomthemes-email-newsletter-1 input.subscribe-submit-1:hover{color:;background:}#loader-1{position:absolute;top:27%;left:0;width:100%;height:80%;text-align:center;font-size:50px}#loader-1 .table{display:table;width:100%;height:100%}#loader-1 .table-row{display:table-row}#loader-1 .table-cell{display:table-cell;vertical-align:middle}</style>
-              <script>jQuery(document).ready(function(){jQuery(document).on("submit","form#blossomthemes-email-newsletter-1",function(e){e.preventDefault();jQuery(".subscribe-submit-1").attr("disabled","disabled");var email=jQuery(".subscribe-email-1").val();var fname=jQuery(".subscribe-fname-1").val();var sid=1;jQuery.ajax({type:"post",dataType:"json",url:bten_ajax_data.ajaxurl,data:{action:"subscription_response",email:email,fname:fname,sid:sid},beforeSend:function(){jQuery("#loader-1").fadeIn(500)},success:function(response){jQuery(".subscribe-submit-1").attr("disabled","disabled");if(response.type==="success"){jQuery("#bten-response-1 span").html(response.message);jQuery("#bten-response-1").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-1").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-1").find("input[type=text]").val("")})}else{jQuery("#bten-response-1 span").html(response.message);jQuery("#bten-response-1").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-1").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-1").find("input[type=text]").val("")})}},complete:function(){jQuery("#loader-1").fadeOut(500)}})})});</script></aside>
-          </div>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Gold Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
+
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"> <v:stroke joinstyle="miter"/> <v:formulas>  <v:f eqn="if lineDrawn pixelLineWidth 0"/>  <v:f eqn="sum @0 1 0"/>  <v:f eqn="sum 0 0 @1"/>  <v:f eqn="prod @2 1 2"/>  <v:f eqn="prod @3 21600 pixelWidth"/>  <v:f eqn="prod @3 21600 pixelHeight"/>  <v:f eqn="sum @0 0 1"/>  <v:f eqn="prod @6 1 2"/>  <v:f eqn="prod @7 21600 pixelWidth"/>  <v:f eqn="sum @8 21600 0"/>  <v:f eqn="prod @7 21600 pixelHeight"/>  <v:f eqn="sum @10 21600 0"/> </v:formulas> <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/> <o:lock v:ext="edit" aspectratio="t"/></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75" alt="Image result for Glasgow caledonian logo" href="http://www.gcu.ac.uk/" style='width:162pt;height:88.2pt;visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image001.png" o:title="Image result for Glasgow caledonian logo"  croptop="17077f" cropbottom="17353f" cropleft="3921f" cropright="4371f"/></v:shape><![endif]--><!--[if !vml]--><span
+
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image002.png"
+
+                      alt="Image result for Glasgow caledonian logo" v:shapes="Picture_x0020_1"
+
+                      border="0" height="118" width="216"></span><!--[endif]--></span></a><span
+
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Silver Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.sicsa.ac.uk/"><span
+
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+ href="https://www.sicsa.ac.uk/" style='width:156pt;height:103.8pt; visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image003.png" o:title="7E09E8EB"/></v:shape><![endif]--><!--[if !vml]--><span
+
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
+
+                      v:shapes="_x0000_i1030" border="0" height="138" width="208"></span><!--[endif]--></span></a><span
+
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Supporting Partners<o:p></o:p></span></b></p>
+            <div style="text-align: center;"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://ieeer8.org/student-activities/sac/"><img
+
+                    src="Logos/IEEER8SAC_logo.png" alt="" style="width: 123px; height: 123px;"></a></span><br>
+            </div>
+            <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span> <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><br>
+            </span>
+            <p class="MsoNormal" style="text-align:center" align="center"><span
+
+                style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://students.ieee.org/professional-awareness/">IEEE
+                  SPAA Program</a></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://ias.ieee.org/"><span
+
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/IAS_logo.gif" alt=""
+
+                    style="width: 184px; height: 121px;"></span></a><a href="https://yp.ieee.org/"><span
+
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><br>
+              </a><a href="https://www.comsoc.org/"><span style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" alt=""
+
+                    style="width: 184px; height: 121px;"></span></a><a href="https://signalprocessingsociety.org"><br>
+              </a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://signalprocessingsociety.org"><img
+
+                  src="Logos/SPS_logo.png" alt="" style="width: 222px; height: 149px;"></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
+
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+
+                    style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+
+                      border="0" height="59" width="210"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-ukandireland.org/"><span
+
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><span style="mso-ignore:vglayout"></span></span></a><a
+
+                href="https://www.ieee-pes.org"><img src="Logos/PES_logo.jpg" alt=""
+
+                  style="width: 209px; height: 144px;"></a><br>
+              <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
+
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+
+                      src="Sponsors_files/image006.jpg" border="0" height="89" width="185"></span></span></a><b><span
+
+                  style="color:#4472C4;mso-themecolor:accent1;mso-ansi-language:EN-US"
+
+                  lang="EN-US"></span></b></p>
+            <div style="text-align: center;"><a href="https://ieeer8.org/"><span
+
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+
+                      src="Logos/IEEERegion8.jpg" alt="Image result for IEEE UK section"
+
+                      border="0" height="62" width="189"></span></span></a><span
+
+                style="mso-ansi-language:EN-US" lang="EN-US"></span></div>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image023.png"
+
+                      border="0" height="66" width="213"></span></span></a></p>
+            <a href="http://www.ieeeukiyp.org/"><span style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                lang="EN-US"><span style="mso-ignore:vglayout"></span><!--[endif]--></span></a><span
+
+              style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span> </div>
           <!-- .widget-area --> </div>
         <!-- .secondary --> </div>
       <!-- .sidebar -->
@@ -286,27 +411,355 @@ type="submit"> </form>
           <main id="main" class="site-main" role="main">
             <article id="post-21" class="post-21 page type-page status-publish hentry">
               <header class="entry-header">
-                <h1 class="entry-title">Program</h1>
+                <div align="center">
+                  <h1 class="entry-title">Speakers</h1>
+                </div>
               </header>
-              <div style="text-align: center;"><img src="Tentative%20Program.png"
-                  alt="" style="width: 526px; height: 473px;"></div>
-              <div style="text-align: center;"><br>
+              <p><b></b></p>
+              <div align="center"><b>Looking to the Future: Emerging Trends for
+                  the Next Decade and Beyond.</b></div>
+              <p></p>
+              <div align="center"><img src="Theo.png" alt="" title="" height="300"
+
+                  width="200"> </div>
+              <div align="center"> <button onclick="document.getElementById('id01').style.display='block'"
+
+                  class="w3-button w3-black">Mr. Theo Priestley</button> </div>
+              <p></p>
+              <p><b></b></p>
+              <div align="center"><b>Zero Carbon/ Hydrogen Based Economy.</b></div>
+              <p></p>
+              <div align="center"><img src="Alex.png" alt="" title="" height="300"
+
+                  width="200"> </div>
+              <div align="center"> <button onclick="document.getElementById('id05').style.display='block'"
+
+                  class="w3-button w3-black">Derek Alexander-Wilson</button> </div>
+              <p></p>
+              <div align="center"><b>
+                  <p>The Common Good.</p>
+                </b>
+                <div align="center"><img src="Julie.png" alt="" title="" height="344"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id02').style.display='block'"
+
+                  class="w3-button w3-black">Julie Adair</button> </div>
+              <p></p>
+              <div align="center"><b>
+                  <p>Emerging Technologies.</p>
+                </b>
+                <div align="center"><img src="Chris.png" alt="" title="" height="644"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id03').style.display='block'"
+
+                  class="w3-button w3-black">Dr Christos Anagnostopoulos</button>
               </div>
-              <div style="text-align: center;"><img src="Program_guide.png" alt=""
-                  style="width: 524px; height: 393px;"></div>
-              <div style="text-align: center;"><br>
+              <p></p>
+              <div align="center"><b>
+                  <p>Emerging Technologies and IoT.</p>
+                </b>
+                <div align="center"><img src="Abdel.png" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id04').style.display='block'"
+
+                  class="w3-button w3-black">Dr Mohamed Abdel-Wahab</button> </div>
+              <p></p>
+              <div align="center"><b>
+                  <p>Professional Development Workshop</p>
+                </b>
+                <div align="center"><img src="Lynn.jpg" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id06').style.display='block'"
+
+                  class="w3-button w3-black">Lynn Tomkins</button> </div>
+              <p></p>
+              <div align="center"><b>
+                  <p>Sub-plenary 2.1 and Panel Discussion</p>
+                </b>
+                <div align="center"><img src="Jo.jpg" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id07').style.display='block'"
+
+                  class="w3-button w3-black">Jo Watts</button> </div>
+              <p></p>
+              <div align="center"><b>
+                  <p>Sub-plenary 2.1 and Panel Discussion</p>
+                </b>
+                <div align="center"><img src="Hadi.jpg" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id08').style.display='block'"
+
+                  class="w3-button w3-black">Hadi Heidari</button> </div>
+              <p></p>
+              <p></p>
+              <div align="center"><b>
+                  <p>And many more exciting talks.</p>
+                </b>
+                <div id="id01" class="w3-modal">
+                  <div class="w3-modal-content w3-card-4">
+                    <header class="w3-container w3-teal"> <span onclick="document.getElementById('id01').style.display='none'"
+
+                        class="w3-button w3-display-topright">×</span>
+                      <h2>Theo Priestley</h2>
+                    </header>
+                    <div class="w3-container">
+                      <p>With a career spanning 20 years, Theo is recognised as
+                        an advisor and sought after keynote speaker and
+                        evangelist on emerging business and technology trends;
+                        identifying and tracking the impacts of emerging
+                        technologies on society and industry globally with a
+                        view to explaining both the positive and negative
+                        effects on today's culture and the future. He has worked
+                        with clients including Siemens, Bosch, TIBCO, HPE,
+                        Mannai, Marketing Society Scotland, Edinburgh City
+                        Council, Generation Media, Aon, WEF, IDC, Welch Allyn
+                        and others to provide keynote engagements, content
+                        marketing, and innovation workshops. Theo has also
+                        mentored and coached early stage entrepreneurs on
+                        marketing and product management strategies at two
+                        leading technology accelerators. He has written over 100
+                        articles and provided commentary for publications
+                        including WIRED, Forbes, Venturebeat, FT Raconteur,
+                        Huffington Post, The European, GigaOM, and has appeared
+                        on both radio and UK national television. </p>
+                    </div>
+                    <footer class="w3-container w3-teal">
+                      <p>Chief Marketing Officer, WFS Technologies Ltd.</p>
+                    </footer>
+                  </div>
+                </div>
               </div>
-              <div style="text-align: center;"><a href="https://drive.google.com/open?id=1P3bJkIyoV_f7sB-jNZTYZkUoV14hY8OL">WESYP
-                  2019 Flyer</a></div>
-              <div style="text-align: center;"><br>
+              <div id="id02" class="w3-modal">
+                <div class="w3-modal-content w3-card-4">
+                  <header class="w3-container w3-teal"> <span onclick="document.getElementById('id02').style.display='none'"
+
+                      class="w3-button w3-display-topright">×</span>
+                    <h2>Julie Adair</h2>
+                  </header>
+                  <div class="w3-container">
+                    <p> Following a leadership career in the media (BBC, Disney
+                      and others) Julie Adair joined GCU in 2014 to develop a
+                      digital social innovation initiative which aims to
+                      identify, showcase and connect social impact projects to
+                      each other and into academia for learning, teaching,
+                      research and community engagement. In 2016 this project,
+                      now called Common Good First (CGF), was funded by the
+                      Erasmus+ Capacity Building in Higher Education call, and
+                      Julie now leads a consortium of twelve Higher Education
+                      Institutions - 6 in Europe and 6 in South Africa to
+                      deliver a digital platform for CGF as well as a series of
+                      digital labs and a digital storytelling toolkit. </p>
+                    <p> She also represents GCU as a member of All Digital, a
+                      Brussels-based group which aims to enhance digital skills
+                      across Europe and is GCU’s Ashoka U Change Leader </p>
+                  </div>
+                  <footer class="w3-container w3-teal">
+                    <p>Director of Digital Collaboration - Glasgow Caledonian
+                      University </p>
+                  </footer>
+                </div>
               </div>
             </article>
-            <br>
           </main>
-          <!-- .site-main --> </div>
-        <!-- .content-area --> </div>
-      <!-- .site-content -->
-      <!-- .site-footer --></div>
+        </div>
+        <div id="id03" class="w3-modal">
+          <div class="w3-modal-content w3-card-4">
+            <header class="w3-container w3-teal"> <span onclick="document.getElementById('id03').style.display='none'"
+
+                class="w3-button w3-display-topright">×</span>
+              <h2>Dr Christos Anagnostopoulos </h2>
+            </header>
+            <div class="w3-container">
+              <p>Dr Christos (Chris) Anagnostopoulos is a Lecturer (Assistant
+                Professor) in Distributed and Pervasive Computing in the School
+                of Computing Science at the University of Glasgow. His expertise
+                is in the areas of network-centric pervasive &amp; adaptive
+                systems and in-network information processing in large-scale
+                distributed sensor/UxV/Edge networks. He has received funding
+                for his research by the EC/H2020 grants, Marie Sk?odowska-Curie
+                (MSCA), UK/EPSRC, and the industry. Dr Anagnostopoulos is an
+                author of over 130 refereed scientific journals/conferences. He
+                is founding director of the Essence(Pervasive &amp; Distributed
+                Intelligence) and co-founding director of the Networked Systems
+                Research (NETLAB). Dr Anagnostopoulos before joining Glasgow was
+                an Assistant Professor at Ionian University and Adjunct
+                Assistant Professor at the University of Athens and University
+                of Thessaly. He has held postdoctoral positions at University of
+                Glasgow and University of Athens in the areas of in-network
+                processing systems in pervasive &amp; mobile computing
+                environments. He holds a BSc, MSc, and PhD in Computing Science,
+                University of Athens. He is an associate fellow of the HEA,
+                member of ACM and IEEE.</p>
+            </div>
+            <footer class="w3-container w3-teal">
+              <p>Assistant Professor - University of Glasgow</p>
+            </footer>
+          </div>
+        </div>
+      </div>
+      <div id="id04" class="w3-modal">
+        <div class="w3-modal-content w3-card-4">
+          <header class="w3-container w3-teal"> <span onclick="document.getElementById('id04').style.display='none'"
+
+              class="w3-button w3-display-topright">×</span>
+            <h2>Dr Mohamed Abdel-Wahab</h2>
+          </header>
+          <div class="w3-container">
+            <p>Mohamed is a Senior Lecturer in Construction Engineering
+              Management and fellow of the UK Higher Education Academy. He is
+              passionate about applied research projects for supporting the
+              digital transformation of the construction industry for enhancing
+              both training and practice. His portfolio of applied research is
+              in excess of £0.5-million which was funded by various
+              organisations, such as: CITB, Morrison Construction (Galliford
+              Try), Thomson Bethune, Scottish Government, European Regional
+              Development Fund, UK Commission for Employment and Skills, Skills
+              Development Scotland, Energy Skills Partnership, and Scottish
+              Funding Council. His research won a number of industry awards,
+              such as: 2-CIOB awards, namely: Premier award in the Digital
+              Innovation category; and Highly Commended award in the Innovation
+              in Education &amp; Training category. Recently, his collaborative
+              project on VR for H&amp;S training was a finalist in the Water
+              Industry Awards 2018 and featured in industry press. He was
+              recently a panellist at #ScotlandBuild 2019 discussing the state
+              of digital transformation in the construction industry.</p>
+          </div>
+          <footer class="w3-container w3-teal">
+            <p>BSc MSc EngD (Loughborough) PgCert PGCAP FHEA</p>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <div id="id05" class="w3-modal">
+      <div class="w3-modal-content w3-card-4">
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id05').style.display='none'"
+
+            class="w3-button w3-display-topright">×</span>
+          <h2>Derek Alexander-Wilson</h2>
+        </header>
+        <div class="w3-container">
+          <p>My focus is to create ways for us all to become genuinely
+            sustainable, protect biodiversity and ensure future generations can
+            do the same, whilst still enjoying the freedom and choices that
+            democratic societies are based on.</p>
+          <p> I believe that transitioning from a fossil fuel based economy to a
+            Hydrogen based economy is the only way to achieve these goals and
+            the process will become the next industrial / technological
+            revolution bringing increased equality, prosperity and security to
+            all.</p>
+          <p> Three important steps are required: </p>
+          <p> (1) Over a 3 year (max) period transfer global fossil fuel
+            subsidies to the Hydrogen / zero carbon industry.</p>
+          <p> (2) Within 2 years implement UN based legally binding commitments
+            for each member country to spend at least 5% of GDP on zero carbon /
+            zero pollution energy generation / distribution biodiversity
+            enhancing solutions using proven technology.</p>
+          <p> (3) Implement UN emergency resolution to enshrine in law "Ecocide"
+            legal protection for the environment and biodiversity as outlined <a
+
+              href="https://www.youtube.com/watch?v=FQKhOPihzSQ">here</a>.</p>
+        </div>
+        <footer class="w3-container w3-teal">
+          <p><a href="www.pandoraproject.co.uk">www.pandoraproject.co.uk</a></p>
+        </footer>
+      </div>
+    </div>
+    <div id="id06" class="w3-modal">
+      <div class="w3-modal-content w3-card-4">
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id06').style.display='none'"
+
+            class="w3-button w3-display-topright">×</span>
+          <h2>Lynn Tomkins</h2>
+        </header>
+        <div class="w3-container">
+          <p>Session-I (2:00 - 2:45 pm) Networking - skills, methods and
+            opporutnities.</p>
+          <p>Session-II (2:45 - 3:30 pm) Diversity and Inclusion.</p>
+          <p>Lynn is a highly experienced operator in the skills environment.
+            She is Chair of Skills4, the UK's leading provider of the award
+            winning Career Development Programmes for women as well as other
+            specialist programmes which deliver measurable business improvements
+            for high performing companies by addressing gender and diversity
+            balance within business.</p>
+          <p> Lynn, who was operations director for SEMTA, the sector skills
+            council for science, engineering and advanced manufacturing, is also
+            one of Skills 4’s leading executive trainers and coaches. She works
+            with companies such as Rolls Royce, Atkins, BAE Systems, and Balfour
+            Beatty, delivering training and coaching. </p>
+          <p> Lynn holds various Board positions, she is a Board and founding
+            member of the UK Electronics Skills Foundation (UKESF) as well a
+            Board member of Policy Connect, the leading network of Parliamentary
+            groups; research commissions; forums and campaigns working to inform
+            and improve UK public policy. Previously a director of Hexham
+            Racecourse, Lynn is a member of Women in Racing.</p>
+          <p> She was the first ever woman Vice President of the Ship Building,
+            Ship Repair Association and is also the current Vice Chair of
+            Northumberland College. </p>
+        </div>
+        <footer class="w3-container w3-teal">
+          <p>Chair, Skills4UK</p>
+        </footer>
+      </div>
+    </div>
+    <div id="id07" class="w3-modal">
+      <div class="w3-modal-content w3-card-4">
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id07').style.display='none'"
+
+            class="w3-button w3-display-topright">×</span>
+          <h2>Jo Watts</h2>
+        </header>
+        <div class="w3-container">
+          <p>Talk-I, Sub-plenary 2.1 (21 Sep 10:30 - 11:00 am) Data Demystified.</p>
+          <p>Talk-II, Panel Discussion (21 Sep 11:30 am - 1:00 pm) Data Care -
+            how to really look after your data to create value.</p>
+          <p>Jo founded Effini, a data science company, in 2017 with aim of
+            making data accessible to everyone. Effini helps companies develop
+            and deliver their data strategies, whilst building data skills
+            across the board, from school children to practising data
+            scientists. Jo started her data journey with a PhD in Astrophysics
+            and after a brief spell as a software engineer, moved into financial
+            services for the next 15 years. She has covered a breadth of data
+            roles from risk model development, to systems implementation, data
+            governance and analytics leadership. She also sits on the boards of
+            The Datalab and Gamstop. </p>
+        </div>
+        <footer class="w3-container w3-teal">
+          <p>Founder, Effini</p>
+        </footer>
+      </div>
+    </div>
+     <div id="id08" class="w3-modal">
+      <div class="w3-modal-content w3-card-4">
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id08').style.display='none'"
+
+            class="w3-button w3-display-topright">×</span>
+          <h2>Hadi Heidari</h2>
+        </header>
+        <div class="w3-container">
+          <p>Talk-I, Sub-plenary 2.1 (21 Sep 10:30 - 11:00 am) Implantable Microelectronic Devices.</p>
+          <p>Talk-II, Panel Discussion (21 Sep 11:30 am - 1:00 pm) Data Care -
+            how to really look after your data to create value.</p>
+          <p>Hadi Heidari (PhD, SMIEEE, FHEA) is an Assistant Professor (Lecturer) in the School of Engineering and lead of the Microelectronics Lab (meLAB) at the University of Glasgow, United Kingdom.</p>
+<p>Dr Heidari is a member of the IEEE Circuits and Systems Society Board of Governors (2018-2020), IEEE Sensors Council Member-at-Large (2020-2021), Senior Member of IEEE and Fellow of Higher Education Academy (FHEA). He is an Associate Editor for the IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology and IEEE Access, Editor of Elsevier Microelectronics Journal, and Guest Editor for the IEEE Sensors Journal, and Frontiers in Neuroscience. He is the General Chair of 27th IEEE ICECS 2020, Technical Program Chair of IEEE PRIME'19, and serves on the organising committee of several conferences including the UK Circuits and Systems Workshop (UKCAS),  UK-China Emerging Technologies (UCET) Conference, IEEE SENSORS’16 and ’17, NGCAS’17, BioCAS’18, PRIME’15, ISCAS'23, and the organiser of several special sessions on the IEEE Conferences. His research has been funded by major research councils and funding organizations including the European Commission, EPSRC, Royal Society and Scottish Funding Council. He is part of the €8.4M EU H2020 FET-Proactive project on “Hybrid Enhanced Regenerative Medicine Systems (HERMES)”.</p>
+<p>Dr Heidari has authored/co-authored over 100 peer-reviewed publications in tier-1 journals or conference proceedings and acts as a reviewer for several journals and conferences. He has been the recipient of a number of awards including the 2019 IEEE Sensors Council Young Professional Award, the Rewards for Excellence prize from the University of Glasgow (2018), IEEE CASS Scholarship (NGCAS’17 conference), Silk Road Award from the Solid-State Circuits Conference (ISSCC’16), Best Paper Award from the IEEE ISCAS’14 conference, Gold Leaf Award from the IEEE PRIME’14 Conference. He was a research visitor with the University of Macau, China, and McGill University, Canada.
+</p>
+        </div>
+        <footer class="w3-container w3-teal">
+          <p>Assistant Professor, University of Glasgow</p>
+        </footer>
+      </div>
+    </div>
+    <br>
+    <!-- .site-main -->
+    <!-- .content-area -->
+    <!-- .site-content -->
+    <!-- .site-footer -->
     <!-- .site -->
     <script type="text/javascript">
 /* <![CDATA[ */
@@ -321,5 +774,80 @@ var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand chil
 /* ]]> */
 </script> <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/functions.js?ver=20150330"></script>
     <script type="text/javascript" src="./../wp-includes/js/wp-embed.min.js?ver=4.5.17"></script>
+    <script>
+// Get the modal
+var modal = document.getElementById('id01');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+var modal1 = document.getElementById('id02');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal1) {
+    modal1.style.display = "none";
+  }
+}
+
+
+var modal2 = document.getElementById('id03');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal2) {
+    modal2.style.display = "none";
+  }
+}
+
+var modal3 = document.getElementById('id04');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal3) {
+    modal3.style.display = "none";
+  }
+}
+
+var modal4 = document.getElementById('id05');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal4) {
+    modal4.style.display = "none";
+  }
+}
+
+var modal5 = document.getElementById('id06');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal5) {
+    modal5.style.display = "none";
+  }
+}
+
+var modal6 = document.getElementById('id07');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal6) {
+    modal6.style.display = "none";
+  }
+}
+
+var modal7 = document.getElementById('id08');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal7) {
+    modal7.style.display = "none";
+  }
+}
+</script>
   </body>
 </html>
