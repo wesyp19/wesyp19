@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-GB">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="./../xmlrpc.php">
+    <!--[if lt IE 9]>
+	<script src="./wp-content/themes/twentyfifteen/js/html5.js"></script>	<![endif]-->
+    <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+    <title>Poster Guidelines – WESYP 2019</title>
+    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Feed" href="./../feed/index.html">
+    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
+      href="./../comments/feed/index.html">
+    <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.17"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+    <style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+      type="text/css" media="all">
+    <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
+      type="text/css" media="all">
+    <link rel="stylesheet" id="genericons-css" href="./../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2"
+      type="text/css" media="all">
+    <link rel="stylesheet" id="twentyfifteen-style-css" href="./../wp-content/themes/twentyfifteen/style.css?ver=4.5.17"
+      type="text/css" media="all">
+    <style id="twentyfifteen-style-inline-css" type="text/css">
+
+		/* Custom Sidebar Text Color */
+		.site-title a,
+		.site-description,
+		.secondary-toggle:before {
+			color: #0a0a0a;
+		}
+
+		.site-title a:hover,
+		.site-title a:focus {
+			color: #0a0a0a; /* Fallback for IE7 and IE8 */
+			color: rgba( 10, 10, 10, 0.7);
+		}
+
+		.secondary-toggle {
+			border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 10, 10, 10, 0.1);
+		}
+
+		.secondary-toggle:hover,
+		.secondary-toggle:focus {
+			border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 10, 10, 10, 0.3);
+		}
+
+		.site-title a {
+			outline-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+			outline-color: rgba( 10, 10, 10, 0.3);
+		}
+
+		@media screen and (min-width: 59.6875em) {
+			.secondary a,
+			.dropdown-toggle:after,
+			.widget-title,
+			.widget blockquote cite,
+			.widget blockquote small {
+				color: #0a0a0a;
+			}
+
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a {
+				background-color: #0a0a0a;
+			}
+
+			.textwidget a {
+				border-color: #0a0a0a;
+			}
+
+			.secondary a:hover,
+			.secondary a:focus,
+			.main-navigation .menu-item-description,
+			.widget,
+			.widget blockquote,
+			.widget .wp-caption-text,
+			.widget .gallery-caption {
+				color: rgba( 10, 10, 10, 0.7);
+			}
+
+			.widget button:hover,
+			.widget button:focus,
+			.widget input[type="button"]:hover,
+			.widget input[type="button"]:focus,
+			.widget input[type="reset"]:hover,
+			.widget input[type="reset"]:focus,
+			.widget input[type="submit"]:hover,
+			.widget input[type="submit"]:focus,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				background-color: rgba( 10, 10, 10, 0.7);
+			}
+
+			.widget blockquote {
+				border-color: rgba( 10, 10, 10, 0.7);
+			}
+
+			.main-navigation ul,
+			.main-navigation li,
+			.secondary-toggle,
+			.widget input,
+			.widget textarea,
+			.widget table,
+			.widget th,
+			.widget td,
+			.widget pre,
+			.widget li,
+			.widget_categories .children,
+			.widget_nav_menu .sub-menu,
+			.widget_pages .children,
+			.widget abbr[title] {
+				border-color: rgba( 10, 10, 10, 0.1);
+			}
+
+			.dropdown-toggle:hover,
+			.dropdown-toggle:focus,
+			.widget hr {
+				background-color: rgba( 10, 10, 10, 0.1);
+			}
+
+			.widget input:focus,
+			.widget textarea:focus {
+				border-color: rgba( 10, 10, 10, 0.3);
+			}
+
+			.sidebar a:focus,
+			.dropdown-toggle:focus {
+				outline-color: rgba( 10, 10, 10, 0.3);
+			}
+		}
+	
+</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+      type="text/css" media="all">
+    <!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='./wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' /><![endif]-->
+    <!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='./wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' /><![endif]-->
+    <script type="text/javascript" src="./../wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+    <script type="text/javascript" src="./../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+    <link rel="https://api.w.org/" href="./../wp-json/index.html">
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd">
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../wp-includes/wlwmanifest.xml">
+    <meta name="generator" content="WordPress 4.5.17">
+    <link rel="canonical" href="./index.html">
+    <link rel="shortlink" href="./../index.html?p=21">
+    <link rel="alternate" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=.%2Fprogram%2F">
+    <link rel="alternate" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=.%2Fprogram%2F&amp;format=xml">
+    <style type="text/css" id="twentyfifteen-header-css">
+				.site-header {
+			padding-top: 14px;
+			padding-bottom: 14px;
+		}
+
+		.site-branding {
+			min-height: 42px;
+		}
+
+		@media screen and (min-width: 46.25em) {
+			.site-header {
+				padding-top: 21px;
+				padding-bottom: 21px;
+			}
+			.site-branding {
+				min-height: 56px;
+			}
+		}
+		@media screen and (min-width: 55em) {
+			.site-header {
+				padding-top: 25px;
+				padding-bottom: 25px;
+			}
+			.site-branding {
+				min-height: 62px;
+			}
+		}
+		@media screen and (min-width: 59.6875em) {
+			.site-header {
+				padding-top: 0;
+				padding-bottom: 0;
+			}
+			.site-branding {
+				min-height: 0;
+			}
+		}
+					.site-title,
+		.site-description {
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+		</style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #5b84cc; }
+</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+      sizes="32x32">
+    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
+      sizes="192x192">
+    <link rel="apple-touch-icon-precomposed" href="./../wp-content/uploads/2019/07/cropped-website-icon-180x180.png">
+    <meta name="msapplication-TileImage" content="./wp-content/uploads/2019/07/cropped-website-icon-270x270.png">
+  </head>
+  <body class="page page-id-21 page-template-default custom-background wp-custom-logo">
+    <div id="page" class="hfeed site"> <a class="skip-link screen-reader-text"
+        href="#content">Skip to content</a>
+      <div id="sidebar" class="sidebar">
+        <header id="masthead" class="site-header" role="banner">
+          <div class="site-branding"> <a href="./../index.html" class="custom-logo-link"
+              rel="home" itemprop="url"><img src="./../wp-content/uploads/2019/07/cropped-page-header.png"
+                class="custom-logo" alt="cropped-page-header.png" itemprop="logo"
+                height="124" width="248"></a>
+            <p class="site-title"><a href="./../index.html" rel="home">WESYP
+                2019</a></p>
+            <p class="site-description">West European Student and Young
+              Professional 2019</p>
+            <button class="secondary-toggle">Menu and widgets</button> </div>
+          <!-- .site-branding --> </header>
+        <!-- .site-header -->
+        <div id="secondary" class="secondary">
+          <div id="widget-area" class="widget-area" role="complementary">
+            <aside id="pages-3" class="widget widget_pages">
+              <h2 class="widget-title">Menu</h2>
+              <ul>
+                <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
+                <li class="page_item page-item-19"><a href="../about/index.html">About</a></li>
+                <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+                <li class="page_item page-item-21"><a href="./../program/poster.html">Poster
+                    Guidelines</a></li>
+                <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
+                    and Accommodation</a></li>
+                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
+                    and Partners</a></li>
+                <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
+              </ul>
+            </aside>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Gold Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"> <v:stroke joinstyle="miter"/> <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>  <v:f eqn="sum @0 1 0"/>  <v:f eqn="sum 0 0 @1"/>  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>  <v:f eqn="prod @3 21600 pixelHeight"/>  <v:f eqn="sum @0 0 1"/>  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>  <v:f eqn="sum @8 21600 0"/>  <v:f eqn="prod @7 21600 pixelHeight"/>  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas> <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/> <o:lock v:ext="edit" aspectratio="t"/></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75"
+ alt="Image result for Glasgow caledonian logo" href="http://www.gcu.ac.uk/" style='width:162pt;height:88.2pt;visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image001.png" o:title="Image result for Glasgow caledonian logo"
+  croptop="17077f" cropbottom="17353f" cropleft="3921f" cropright="4371f"/></v:shape><![endif]--><!--[if !vml]--><span
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image002.png"
+                      alt="Image result for Glasgow caledonian logo" v:shapes="Picture_x0020_1"
+                      border="0" height="118" width="216"></span><!--[endif]--></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Silver Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.sicsa.ac.uk/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+ href="https://www.sicsa.ac.uk/" style='width:156pt;height:103.8pt; visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image003.png" o:title="7E09E8EB"/></v:shape><![endif]--><!--[if !vml]--><span
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
+                      v:shapes="_x0000_i1030" border="0" height="138" width="208"></span><!--[endif]--></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Supporting Partners<o:p></o:p></span></b></p>
+            <div style="text-align: center;"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://ieeer8.org/student-activities/sac/"><img
+                    src="Logos/IEEER8SAC_logo.png" alt="" style="width: 123px; height: 123px;"></a></span><br>
+            </div>
+            <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span> <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><br>
+            </span>
+            <p class="MsoNormal" style="text-align:center" align="center"><span
+                style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://students.ieee.org/professional-awareness/">IEEE
+                  SPAA Program</a></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://ias.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/IAS_logo.gif" alt=""
+                    style="width: 184px; height: 121px;"></span></a><a href="https://yp.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><br>
+              </a><a href="https://www.comsoc.org/"><span style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" alt=""
+                    style="width: 184px; height: 121px;"></span></a><a href="https://signalprocessingsociety.org"><br>
+              </a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://signalprocessingsociety.org"><img
+                  src="Logos/SPS_logo.png" alt="" style="width: 222px; height: 149px;"></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+                    style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-pes.org"><img
+                  src="Logos/PES_logo.jpg" alt="" style="width: 209px; height: 144px;"></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-ukandireland.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"></span></span></a><a
+                href="https://www.ieee-ukandireland.org/"><span style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+                      border="0" height="59" width="210"></span></span></a><br>
+              <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+                      src="Sponsors_files/image006.jpg" border="0" height="89" width="185"></span></span></a><b><span
+                  style="color:#4472C4;mso-themecolor:accent1;mso-ansi-language:EN-US"
+                  lang="EN-US"></span></b></p>
+            <div style="text-align: center;"><a href="https://ieeer8.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+                      src="Logos/IEEERegion8.jpg" alt="Image result for IEEE UK section"
+                      border="0" height="62" width="189"></span></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"></span></div>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image023.png"
+                      border="0" height="66" width="213"></span></span></a></p>
+          </div>
+        </div>
+        <!-- .secondary --> </div>
+      <!-- .sidebar -->
+      <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+          <main id="main" class="site-main" role="main">
+            <article id="post-21" class="post-21 page type-page status-publish hentry">
+              <header class="entry-header">
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center;line-height:normal" align="center"><b><span style="font-size:18.0pt;
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB">WESYP
+                      2019 POSTER SUBMISSION GUIDELINES</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:
+Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
+                <p></p>
+                <div align="justify">As a part of WESYP 2019 you are invited to
+                  present a poster for the poster competition and<b> WIN
+                    exciting Prizes!!!</b></div>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div align="justify">The poster is intended to be a means of
+                  improving your skills in the presentation of information. This
+                  is a unique opportunity for engineering students to
+                  demonstrate their research, projects or business ideas to a
+                  community of world-renowned industry experts, faculty and IEEE
+                  professionals in addition to fellow students. The poster
+                  should aim to have an immediate appeal to non-technical event
+                  attendees but should also provide some content for those with
+                  more specialised interests.</div>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div align="justify">Although the theme of the event is<b>
+                    “Building a Sustainable Future”.</b> A wide variety of <u>relevant
+                    subjects</u> relating to emerging technologies will be
+                  accepted for the poster competition. The topics can contain
+                  different combinations of design, build, experimentation,
+                  analysis etc. Poster submissions must be in English and
+                  posters should show diagrams, photographs, text and data which
+                  would be of interest to other engineers and scientists.
+                  Complex displays should be avoided.&nbsp;The format of the
+                  poster is your choice but should contain the following
+                  features:</div>
+                <p></p>
+                <p> </p>
+                <ul type="circle">
+                  <li>Title of the project</li>
+                  <li>Your university logo, <a href="https://drive.google.com/open?id=11i4S-rVUA3pWxGN1Mtmvb0lUg5iAOj_t">WESYP
+                      logo</a> and the logo of supporting industry (if your
+                    project is sponsored by any).</li>
+                  <li>The name of the poster presenter or presenters and
+                    supervisors.</li>
+                  <li>An "Introduction" to the project (rationale, background,
+                    clear statements about what you have set out to do e.g.
+                    problem you intend to solve, proofs you are trying to
+                    establish). This should lead to declarations of project
+                    aim(s) and objectives; </li>
+                  <li>An "Applicable Theory" or "Methodology" or "Experimental"
+                    Section to explain the basis of the techniques / procedures
+                    you are using, including any assumptions made (to put your
+                    results into context); </li>
+                  <li>A "Results and Discussion" Section to explain what you
+                    have done so far and what it tells you (your
+                    interpretation); </li>
+                  <li>A "Conclusion and Further Work" Section summarising your
+                    findings to date and thoughts about how the work will
+                    progress from this point. </li>
+                  <li>References!</li>
+                </ul>
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
+                <p></p>
+                <div align="justify">The aim is to get <span class="GramE">all
+                    of</span> this information into such a short amount of space
+                  <b>(A1 Size paper)</b> and at the same time make it CLEAR,
+                  CONCISE AND ENGAGING. Please prepare the poster in <b>portrait
+                    format</b>. A template for your ease is provided <a href="https://drive.google.com/file/d/1ypVDJKnNpyODzso_SxwLRFYmWWgMRGT3/view?usp=sharing">here</a>.
+                  The use of coloured pictures, lettering etc is acceptable BUT
+                  the background should be left WHITE. For further information
+                  on how to format a good poster, refer to the following links:</div>
+                <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span>
+                <p></p>
+                <p></p>
+                <p class="MsoListParagraphCxSpFirst" style="margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo3"><!--[if !supportLists]--><span
+                    style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-GB"><span style="mso-list:
+Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </span></span></span><!--[endif]--><a href="https://www.liverpool.ac.uk/media/livacuk/computingservices/printing/making-an-impact-with-your-poster.pdf">Liverpool's
+                    Guide on Posters</a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
+                <p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;margin-bottom:.0001pt;
+mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo3"><!--[if !supportLists]--><span
+                    style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-GB"><span style="mso-list:
+Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </span></span></span><!--[endif]--><a href="https://undergrad.stanford.edu/opportunities/research/go-further/surpsasurps/make-good-poster">Standford
+                    Guide on Posters</a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:
+Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
+                <p></p>
+                <div align="justify">You need to submit one electronic version
+                  of your poster in pdf format to the WESYP committee <a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a>
+                  by the&nbsp;<b><font color="#FF0000">13th September 2019</font>.</b>
+                  <p></p>
+                  <p> Please include the text ‘Poster Competition’ followed by
+                    your full name in the email title when submitting your
+                    poster. After confirmation of the topic, you can print the
+                    poster in A1 size and bring it along to the event.</p>
+                </div>
+                <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+                <p class="MsoNormal"><b><span style="font-size:18.0pt;line-height:107%;
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB">POSTER
+                      JUDGING<o:p></o:p></span></b></p>
+                <p></p>
+                <div align="justify">Posters will be on display in the Poster
+                  Area located in the&nbsp;Govan Mbeki foyer on the ground level
+                  and would need to comply with the following requirements.</div>
+                <p></p>
+                <ul type="circle">
+                  <li>One poster board/area would be allocated to each
+                    presentation. </li>
+                  <li>You will need to present your research and defend your
+                    poster to the judging panel during the poster session.</li>
+                  <li>The poster judging panel will be notified during the
+                    conference. The competition committee, comprising both
+                    academic and practitioner members, will evaluate the content
+                    and design of all posters. </li>
+                  <li>The self-explanatory posters must visually illustrate and
+                    briefly explain technical projects or research studies
+                    related to the conference theme or other topics related to
+                    the field of professional communication or engineering.</li>
+                </ul>
+                <p class="MsoNormal"><b><span style="font-size:18.0pt;line-height:107%;
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></b></p>
+                <p></p>
+                <div align="justify">The competition committee will notify the
+                  winners on 21st September 2019. &nbsp;First place and second
+                  place winners will be awarded cash prizes and certificates.
+                  All winning posters will be displayed during the rest of the
+                  congress.</div>
+                <p></p>
+                <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+justify;line-height:normal;vertical-align:baseline"><span style="font-size:
+11.5pt;font-family:&quot;Helvetica&quot;,sans-serif;color:#373737;background:white"><o:p>&nbsp;</o:p></span></p>
+              </header>
+            </article>
+          </main>
+        </div>
+        <br>
+        <!-- .site-main --> </div>
+      <!-- .content-area --> </div>
+    <!-- .site-content -->
+    <!-- .site-footer -->
+    <!-- .site -->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var bten_ajax_data = {"ajaxurl":".\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script> <script type="text/javascript" defer="defer" src="./../wp-content/plugins/blossomthemes-email-newsletter/public/js/blossomthemes-email-newsletter-public.min.js?ver=2.0.0"></script>
+    <script type="text/javascript" src="./../wp-content/plugins/blossomthemes-email-newsletter/public/js/all.min.js?ver=5.6.3"></script>
+    <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010"></script>
+    <script type="text/javascript">
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script> <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/functions.js?ver=20150330"></script>
+    <script type="text/javascript" src="./../wp-includes/js/wp-embed.min.js?ver=4.5.17"></script>
+  </body>
+</html>

@@ -29,8 +29,7 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
-</style>
-    <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
       type="text/css" media="all">
     <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
       type="text/css" media="all">
@@ -151,8 +150,7 @@ img.emoji {
 			}
 		}
 	
-</style>
-    <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
       type="text/css" media="all">
     <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentyfifteen-ie-css'  href='./wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' /><![endif]-->
@@ -213,8 +211,7 @@ img.emoji {
 		</style>
     <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #5b84cc; }
-</style>
-    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
       sizes="32x32">
     <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
       sizes="192x192">
@@ -245,43 +242,120 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
                 <li class="page_item page-item-19"><a href="./../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+                <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
                 <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
-                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
+                    and Accommodation</a></li>
+                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
+                    and Partners</a></li>
                 <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
               </ul>
             </aside>
-            <aside id="blossomthemes_email_newsletter_widget-3" class="widget widget_blossomthemes_email_newsletter_widget">
-              <h2 class="widget-title">Subscribe to News and Updates</h2>
-              <div class="blossomthemes-email-newsletter-wrapper" id="boxes-1" style="background: ; color:;">
-                <div class="text-holder">
-                  <h3>Hello world!</h3>
-                </div>
-                <form id="blossomthemes-email-newsletter-1" class="blossomthemes-email-newsletter-window-1">
-                  <input name="subscribe-email" class="subscribe-email-1" value=""
-                    placeholder="Your Email" type="text"> <label for="subscribe-confirmation-1">
-                    <div class="subscribe-inner-wrap"> <input class="subscribe-confirmation-1"
-                        name="subscribe-confirmation" id="subscribe-confirmation-1"
-                        required="" type="checkbox"><span class="check-mark"></span>
-                      <span class="text"> By checking this, you agree to our
-                        Privacy Policy. </span> </div>
-                  </label>
-                  <div id="loader-1" style="display: none">
-                    <div class="table">
-                      <div class="table-row">
-                        <div class="table-cell"> <img src="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/loader.gif">
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <input name="subscribe-submit" class="subscribe-submit-1" value="Subscribe"
-type="submit"> </form>
-                <div class="bten-response" id="bten-response-1"><span></span></div>
-                <div id="mask-1"></div>
-              </div>
-              <style>#mask-1{position:fixed;width:100%;height:100%;left:0;top:0;z-index:9000;background-color:#000;display:none}#boxes-1 #dialog{width:750px;height:300px;padding:10px;background-color:#fff;font-family:"Segoe UI Light",sans-serif;font-size:15pt}#blossomthemes-email-newsletter-1 input.subscribe-submit-1{color:;background:;margin:10px 0 0 0}#blossomthemes-email-newsletter-1 input.subscribe-submit-1:hover{color:;background:}#loader-1{position:absolute;top:27%;left:0;width:100%;height:80%;text-align:center;font-size:50px}#loader-1 .table{display:table;width:100%;height:100%}#loader-1 .table-row{display:table-row}#loader-1 .table-cell{display:table-cell;vertical-align:middle}</style>
-              <script>jQuery(document).ready(function(){jQuery(document).on("submit","form#blossomthemes-email-newsletter-1",function(e){e.preventDefault();jQuery(".subscribe-submit-1").attr("disabled","disabled");var email=jQuery(".subscribe-email-1").val();var fname=jQuery(".subscribe-fname-1").val();var sid=1;jQuery.ajax({type:"post",dataType:"json",url:bten_ajax_data.ajaxurl,data:{action:"subscription_response",email:email,fname:fname,sid:sid},beforeSend:function(){jQuery("#loader-1").fadeIn(500)},success:function(response){jQuery(".subscribe-submit-1").attr("disabled","disabled");if(response.type==="success"){jQuery("#bten-response-1 span").html(response.message);jQuery("#bten-response-1").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-1").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-1").find("input[type=text]").val("")})}else{jQuery("#bten-response-1 span").html(response.message);jQuery("#bten-response-1").fadeIn("slow").delay("3000").fadeOut("3000",function(){jQuery(".subscribe-submit-1").removeAttr("disabled","disabled");jQuery("form#blossomthemes-email-newsletter-1").find("input[type=text]").val("")})}},complete:function(){jQuery("#loader-1").fadeOut(500)}})})});</script></aside>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Gold Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/> <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas> <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75"
+ alt="Image result for Glasgow caledonian logo" href="http://www.gcu.ac.uk/" style='width:162pt;height:88.2pt;visibility:visible;mso-wrap-style:square'
+ o:button="t"> <v:imagedata src="Sponsors_files/image001.png" o:title="Image result for Glasgow caledonian logo"
+  croptop="17077f" cropbottom="17353f" cropleft="3921f" cropright="4371f"/></v:shape><![endif]--><!--[if !vml]--><span
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image002.png"
+                      alt="Image result for Glasgow caledonian logo" v:shapes="Picture_x0020_1"
+                      border="0" height="118" width="216"></span><!--[endif]--></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Silver Sponsor<o:p></o:p></span></b></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.sicsa.ac.uk/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+ href="https://www.sicsa.ac.uk/" style='width:156pt;height:103.8pt; visibility:visible;mso-wrap-style:square' o:button="t">
+ <v:imagedata src="Sponsors_files/image003.png" o:title="7E09E8EB"/></v:shape><![endif]--><!--[if !vml]--><span
+                    style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
+                      v:shapes="_x0000_i1030" border="0" height="138" width="208"></span><!--[endif]--></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+                  style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US">Supporting Partners<o:p></o:p></span></b></p>
+            <div style="text-align: center;"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://ieeer8.org/student-activities/sac/"><img
+                    src="Logos/IEEER8SAC_logo.png" alt="" style="width: 123px; height: 123px;"></a></span><br>
+            </div>
+            <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span> <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><br>
+            </span>
+            <p class="MsoNormal" style="text-align:center" align="center"><span
+                style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"><a href="https://students.ieee.org/professional-awareness/">IEEE
+                  SPAA Program</a></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://ias.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/IAS_logo.gif" alt=""
+                    style="width: 184px; height: 121px;"></span></a><a href="https://yp.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><br>
+              </a><a href="https://www.comsoc.org/"><span style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" alt=""
+                    style="width: 184px; height: 121px;"></span></a><a href="https://signalprocessingsociety.org"><br>
+              </a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://signalprocessingsociety.org"><img
+                  src="Logos/SPS_logo.png" alt="" style="width: 222px; height: 149px;"></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+                    style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+                      border="0" height="59" width="210"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-ukandireland.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"></span></span></a><a
+                href="https://www.ieee-pes.org"><img src="Logos/PES_logo.jpg" alt=""
+                  style="width: 209px; height: 144px;"></a><br>
+              <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
+mso-ansi-language:EN-US" lang="EN-US"></span></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
+                  style="color:windowtext;mso-no-proof:
+yes;text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+                      src="Sponsors_files/image006.jpg" border="0" height="89" width="185"></span></span></a><b><span
+                  style="color:#4472C4;mso-themecolor:accent1;mso-ansi-language:EN-US"
+                  lang="EN-US"></span></b></p>
+            <div style="text-align: center;"><a href="https://ieeer8.org/"><span
+                  style="color:windowtext;mso-no-proof:yes;
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+                      src="Logos/IEEERegion8.jpg" alt="Image result for IEEE UK section"
+                      border="0" height="62" width="189"></span></span></a><span
+                style="mso-ansi-language:EN-US" lang="EN-US"></span></div>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><br>
+                  </span></span></a></p>
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image023.png"
+                      border="0" height="66" width="213"></span></span></a></p>
           </div>
-          <!-- .widget-area --> </div>
+        </div>
         <!-- .secondary --> </div>
       <!-- .sidebar -->
       <div id="content" class="site-content">
@@ -289,38 +363,41 @@ type="submit"> </form>
           <main id="main" class="site-main" role="main">
             <article id="post-19" class="post-19 page type-page status-publish hentry">
               <header class="entry-header">
-                <h1 class="entry-title">Committee</h1>
+                <div align="center">
+                  <h1 class="entry-title">WESYP Committee 2019</h1>
+                </div>
               </header>
               <!-- .entry-header -->
               <div class="entry-content">
-                <p>Coming Soon</p>
+                <p> </p>
+                <div align="center">Contact us at <a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a></div>
+                <div align="center"><a href="mailto:wesyp2019@gmail.com"><br>
+                  </a></div>
+                <p></p>
+                <p></p>
+                <div align="center"> <img src="Committee_members.png" alt="" title=""
+                    height="1500" width="500">
+                </div>
               </div>
               <!-- .entry-content --> </article>
             <!-- #post-19 --> </main>
           <!-- .site-main --> </div>
         <!-- .content-area --> </div>
       <!-- .site-content -->
-      <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="site-info"> <a href="https://wordpress.org/" class="imprint">
-            Proudly powered by WordPress </a> </div>
-        <!-- .site-info --> </footer>
-      <!-- .site-footer -->
-    </div>
+      <!-- .site-footer --> </div>
     <!-- .site -->
     <script type="text/javascript">
 /* <![CDATA[ */
 var bten_ajax_data = {"ajaxurl":".\/wp-admin\/admin-ajax.php"};
 /* ]]> */
-</script>
-    <script type="text/javascript" defer="defer" src="./../wp-content/plugins/blossomthemes-email-newsletter/public/js/blossomthemes-email-newsletter-public.min.js?ver=2.0.0"></script>
+</script> <script type="text/javascript" defer="defer" src="./../wp-content/plugins/blossomthemes-email-newsletter/public/js/blossomthemes-email-newsletter-public.min.js?ver=2.0.0"></script>
     <script type="text/javascript" src="./../wp-content/plugins/blossomthemes-email-newsletter/public/js/all.min.js?ver=5.6.3"></script>
     <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010"></script>
     <script type="text/javascript">
 /* <![CDATA[ */
 var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
 /* ]]> */
-</script>
-    <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/functions.js?ver=20150330"></script>
+</script> <script type="text/javascript" src="./../wp-content/themes/twentyfifteen/js/functions.js?ver=20150330"></script>
     <script type="text/javascript" src="./../wp-includes/js/wp-embed.min.js?ver=4.5.17"></script>
   </body>
 </html>
