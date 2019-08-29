@@ -8,7 +8,11 @@
     <!--[if lt IE 9]>
 	<script src="./wp-content/themes/twentyfifteen/js/html5.js"></script>	<![endif]-->
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<<<<<<< HEAD
     <title>Poster Guidelines – WESYP 2019</title>
+=======
+    <title>Program – WESYP 2019</title>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Feed" href="./../feed/index.html">
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
       href="./../comments/feed/index.html">
@@ -242,6 +246,7 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
                 <li class="page_item page-item-19"><a href="../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+<<<<<<< HEAD
                 <li class="page_item page-item-21"><a href="./../program/poster.html">Poster
                     Guidelines</a></li>
                 <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
@@ -249,6 +254,15 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
                     and Accommodation</a></li>
                 <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
+=======
+                <li class="page_item page-item-21"><a href="./../program/poster.html">Poster
+                    Guidelines</a></li>
+                <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
+                <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
+                    and Accomodation</a></li>
+                <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                     and Partners</a></li>
                 <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>
               </ul>
@@ -259,12 +273,27 @@ mso-ansi-language:EN-US" lang="EN-US">Gold Sponsor<o:p></o:p></span></b></p>
             <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
                   style="color:windowtext;mso-no-proof:yes;
 text-decoration:none;text-underline:none"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+<<<<<<< HEAD
  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"> <v:stroke joinstyle="miter"/> <v:formulas>
   <v:f eqn="if lineDrawn pixelLineWidth 0"/>  <v:f eqn="sum @0 1 0"/>  <v:f eqn="sum 0 0 @1"/>  <v:f eqn="prod @2 1 2"/>
   <v:f eqn="prod @3 21600 pixelWidth"/>  <v:f eqn="prod @3 21600 pixelHeight"/>  <v:f eqn="sum @0 0 1"/>  <v:f eqn="prod @6 1 2"/>
   <v:f eqn="prod @7 21600 pixelWidth"/>  <v:f eqn="sum @8 21600 0"/>  <v:f eqn="prod @7 21600 pixelHeight"/>  <v:f eqn="sum @10 21600 0"/>
  </v:formulas> <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/> <o:lock v:ext="edit" aspectratio="t"/></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75"
  alt="Image result for Glasgow caledonian logo" href="http://www.gcu.ac.uk/" style='width:162pt;height:88.2pt;visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image001.png" o:title="Image result for Glasgow caledonian logo"
+=======
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/> <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas> <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/></v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1031" type="#_x0000_t75"
+ alt="Image result for Glasgow caledonian logo" href="http://www.gcu.ac.uk/" style='width:162pt;height:88.2pt;visibility:visible;mso-wrap-style:square'
+ o:button="t"> <v:imagedata src="Sponsors_files/image001.png" o:title="Image result for Glasgow caledonian logo"
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
   croptop="17077f" cropbottom="17353f" cropleft="3921f" cropright="4371f"/></v:shape><![endif]--><!--[if !vml]--><span
                     style="mso-ignore:vglayout"><img src="Sponsors_files/image002.png"
                       alt="Image result for Glasgow caledonian logo" v:shapes="Picture_x0020_1"
@@ -277,7 +306,12 @@ mso-ansi-language:EN-US" lang="EN-US">Silver Sponsor<o:p></o:p></span></b></p>
                   style="color:windowtext;
 mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
                   lang="EN-US"><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+<<<<<<< HEAD
  href="https://www.sicsa.ac.uk/" style='width:156pt;height:103.8pt; visibility:visible;mso-wrap-style:square' o:button="t"> <v:imagedata src="Sponsors_files/image003.png" o:title="7E09E8EB"/></v:shape><![endif]--><!--[if !vml]--><span
+=======
+ href="https://www.sicsa.ac.uk/" style='width:156pt;height:103.8pt; visibility:visible;mso-wrap-style:square' o:button="t">
+ <v:imagedata src="Sponsors_files/image003.png" o:title="7E09E8EB"/></v:shape><![endif]--><!--[if !vml]--><span
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                     style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
                       v:shapes="_x0000_i1030" border="0" height="138" width="208"></span><!--[endif]--></span></a><span
                 style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span></p>
@@ -313,16 +347,30 @@ yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" a
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
                   style="color:windowtext;mso-no-proof:yes;
 text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+<<<<<<< HEAD
                     style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-pes.org"><img
                   src="Logos/PES_logo.jpg" alt="" style="width: 209px; height: 144px;"></a></p>
+=======
+                    style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+                      border="0" height="59" width="210"><br>
+                  </span></span></a></p>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-ukandireland.org/"><span
                   style="color:windowtext;
 mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
                   lang="EN-US"><span style="mso-ignore:vglayout"></span></span></a><a
+<<<<<<< HEAD
                 href="https://www.ieee-ukandireland.org/"><span style="color:windowtext;
 mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
                   lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
                       border="0" height="59" width="210"></span></span></a><br>
+=======
+                href="https://www.ieee-pes.org"><img src="Logos/PES_logo.jpg" alt=""
+                  style="width: 209px; height: 144px;"></a><br>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
               <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US"></span></p>
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
@@ -358,8 +406,14 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
               <header class="entry-header">
                 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;
 text-align:center;line-height:normal" align="center"><b><span style="font-size:18.0pt;
+<<<<<<< HEAD
 mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB">WESYP
                       2019 POSTER SUBMISSION GUIDELINES</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+=======
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+mso-fareast-language:EN-GB">WESYP 2019 POSTER SUBMISSION GUIDELINES</span></b><span
+                    style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
 &quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
                 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
@@ -368,6 +422,7 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB">
 justify;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:
 Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
                 <p></p>
+<<<<<<< HEAD
                 <div align="justify">As a part of WESYP 2019 you are invited to
                   present a poster for the poster competition and<b> WIN
                     exciting Prizes!!!</b></div>
@@ -397,11 +452,57 @@ Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-famil
                   Complex displays should be avoided.&nbsp;The format of the
                   poster is your choice but should contain the following
                   features:</div>
+=======
+                <div align="justify">As a part
+                  of WESYP 2019 you are invited to present a poster for the
+                  poster competition and<b>
+                    WIN exciting Prizes!!!</b></div>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div align="justify">The poster
+                  is intended to be a means of improving your skills in the
+                  presentation of
+                  information. This is a unique opportunity for engineering
+                  students to
+                  demonstrate their research, projects or business ideas to a
+                  community of
+                  world-renowned industry experts, faculty and IEEE
+                  professionals in addition to
+                  fellow students. The poster should aim to have an immediate
+                  appeal to
+                  non-technical event attendees but should also provide some
+                  content for those
+                  with more specialised interests.</div>
+                <p></p>
+                <p></p>
+                <p></p>
+                <div align="justify">Although
+                  the theme of the event is<b> “Building a Sustainable Future”.</b>
+                  A wide
+                  variety of <u>relevant subjects</u> relating to emerging
+                  technologies will be
+                  accepted for the poster competition. The topics can contain
+                  different
+                  combinations of design, build, experimentation, analysis etc.
+                  Poster
+                  submissions must be in English and posters should show
+                  diagrams, photographs,
+                  text and data which would be of interest to other engineers
+                  and scientists.
+                  Complex displays should be avoided.&nbsp;The format of the
+                  poster is your
+                  choice but should contain the following features:</div>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                 <p></p>
                 <p> </p>
                 <ul type="circle">
                   <li>Title of the project</li>
+<<<<<<< HEAD
                   <li>Your university logo, <a href="https://drive.google.com/open?id=11i4S-rVUA3pWxGN1Mtmvb0lUg5iAOj_t">WESYP
+=======
+                  <li>Your university logo, <a href="https://drive.google.com/open?id=11i4S-rVUA3pWxGN1Mtmvb0lUg5iAOj_t">WESYP
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                       logo</a> and the logo of supporting industry (if your
                     project is sponsored by any).</li>
                   <li>The name of the poster presenter or presenters and
@@ -427,6 +528,7 @@ Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-famil
 normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
 mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
                 <p></p>
+<<<<<<< HEAD
                 <div align="justify">The aim is to get <span class="GramE">all
                     of</span> this information into such a short amount of space
                   <b>(A1 Size paper)</b> and at the same time make it CLEAR,
@@ -435,6 +537,21 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB">
                   The use of coloured pictures, lettering etc is acceptable BUT
                   the background should be left WHITE. For further information
                   on how to format a good poster, refer to the following links:</div>
+=======
+                <div align="justify">The aim is
+                  to get <span class="GramE">all of</span> this information
+                  into such a short
+                  amount of space <b>(A1 Size paper)</b> and at the same time
+                  make it CLEAR,
+                  CONCISE AND ENGAGING. Please prepare the poster in <b>portrait
+                    format</b>. A
+                  template for your ease is provided <a href="https://drive.google.com/file/d/1ypVDJKnNpyODzso_SxwLRFYmWWgMRGT3/view?usp=sharing">here</a>.
+                  The use of coloured pictures, lettering etc is acceptable BUT
+                  the background
+                  should be left WHITE. For further information on how to format
+                  a good poster, refer
+                  to the following links:</div>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                 <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
 mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span>
                 <p></p>
@@ -443,22 +560,33 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:EN-GB">
 mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo3"><!--[if !supportLists]--><span
                     style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol;mso-fareast-language:EN-GB"><span style="mso-list:
+<<<<<<< HEAD
 Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         </span></span></span><!--[endif]--><a href="https://www.liverpool.ac.uk/media/livacuk/computingservices/printing/making-an-impact-with-your-poster.pdf">Liverpool's
+=======
+Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      </span></span></span><!--[endif]--><a href="https://www.liverpool.ac.uk/media/livacuk/computingservices/printing/making-an-impact-with-your-poster.pdf">Liverpool's
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                     Guide on Posters</a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
 &quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
                 <p class="MsoListParagraphCxSpLast" style="margin-bottom:0in;margin-bottom:.0001pt;
 mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l2 level1 lfo3"><!--[if !supportLists]--><span
                     style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
 mso-bidi-font-family:Symbol;mso-fareast-language:EN-GB"><span style="mso-list:
+<<<<<<< HEAD
 Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         </span></span></span><!--[endif]--><a href="https://undergrad.stanford.edu/opportunities/research/go-further/surpsasurps/make-good-poster">Standford
+=======
+Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      </span></span></span><!--[endif]--><a href="https://undergrad.stanford.edu/opportunities/research/go-further/surpsasurps/make-good-poster">Standford
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                     Guide on Posters</a><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
 &quot;Times New Roman&quot;;mso-fareast-language:EN-GB"><o:p></o:p></span></p>
                 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
 justify;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:
 Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
                 <p></p>
+<<<<<<< HEAD
                 <div align="justify">You need to submit one electronic version
                   of your poster in pdf format to the WESYP committee <a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a>
                   by the&nbsp;<b><font color="#FF0000">13th September 2019</font>.</b>
@@ -476,6 +604,32 @@ mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot
                 <div align="justify">Posters will be on display in the Poster
                   Area located in the&nbsp;Govan Mbeki foyer on the ground level
                   and would need to comply with the following requirements.</div>
+=======
+                <div align="justify">You need
+                  to submit one electronic version of your poster in pdf format
+                  to the WESYP
+                  committee <a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a>
+                  by the&nbsp;<b><font color="#FF0000">13th September 2019</font>.</b>
+                  <p></p>
+                  <p>
+                    Please include the text ‘Poster
+                    Competition’ followed by your full name in the email title
+                    when submitting your
+                    poster. After confirmation of the topic, you can print the
+                    poster in A1 size
+                    and bring it along to the event.</p>
+                </div>
+                <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+                <p class="MsoNormal"><b><span style="font-size:18.0pt;line-height:107%;
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+mso-fareast-language:EN-GB">POSTER JUDGING<o:p></o:p></span></b></p>
+                <p></p>
+                <div align="justify">Posters
+                  will be on display in the Poster Area located in
+                  the&nbsp;Govan Mbeki foyer on
+                  the ground level and would need to comply with the following
+                  requirements.</div>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                 <p></p>
                 <ul type="circle">
                   <li>One poster board/area would be allocated to each
@@ -492,12 +646,25 @@ mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot
                     the field of professional communication or engineering.</li>
                 </ul>
                 <p class="MsoNormal"><b><span style="font-size:18.0pt;line-height:107%;
+<<<<<<< HEAD
 mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></b></p>
                 <p></p>
                 <div align="justify">The competition committee will notify the
                   winners on 21st September 2019. &nbsp;First place and second
                   place winners will be awarded cash prizes and certificates.
                   All winning posters will be displayed during the rest of the
+=======
+mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></b></p>
+                <p></p>
+                <div align="justify">The
+                  competition committee will notify the winners on 21st
+                  September 2019.
+                  &nbsp;First place and second place winners will be awarded
+                  cash prizes and
+                  certificates. All winning posters will be displayed during the
+                  rest of the
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                   congress.</div>
                 <p></p>
                 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:

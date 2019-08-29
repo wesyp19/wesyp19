@@ -245,7 +245,11 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
                 <li class="page_item page-item-17"><a href="./../registration/index.html">Registration</a></li>
                 <li class="page_item page-item-17"><a href="./../registration/venue_accomodation.html">Venue
+<<<<<<< HEAD
                     and Accommodation</a></li>
+=======
+                    and Accomodation</a></li>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                 <li class="page_item page-item-43"><a href="./../sponsors/index.html">Sponsors
                     and Partners</a></li>
                 <li class="page_item page-item-19"><a href="./../committee/index.html">Committee</a></li>

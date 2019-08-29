@@ -307,16 +307,30 @@ yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" a
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
                   style="color:windowtext;mso-no-proof:yes;
 text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+<<<<<<< HEAD
                     style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-pes.org"><img
                   src="Logos/PES_logo.jpg" alt="" style="width: 209px; height: 144px;"></a></p>
+=======
+                    style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+                  style="color:windowtext;
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+                      border="0" height="59" width="210"><br>
+                  </span></span></a></p>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-ukandireland.org/"><span
                   style="color:windowtext;
 mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
                   lang="EN-US"><span style="mso-ignore:vglayout"></span></span></a><a
+<<<<<<< HEAD
                 href="https://www.ieee-ukandireland.org/"><span style="color:windowtext;
 mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
                   lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
                       border="0" height="59" width="210"></span></span></a><br>
+=======
+                href="https://www.ieee-pes.org"><img src="Logos/PES_logo.jpg" alt=""
+                  style="width: 209px; height: 144px;"></a><br>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
               <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US"></span></p>
             <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
@@ -383,7 +397,11 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
                   class="w3-button w3-black">Julie Adair</button> </div>
               <p></p>
               <div align="center"><b>
+<<<<<<< HEAD
                   <p>Next Generation Networked Systems</p>
+=======
+                  <p>Emerging Technologies.</p>
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                 </b>
                 <div align="center"><img src="Chris.png" alt="" title="" height="644"
                     width="200"> </div>
@@ -392,11 +410,19 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
               </div>
               <p></p>
               <div align="center"><b>
+<<<<<<< HEAD
                   <p>Applications of digital technologies in construction with
                     focus on VR</p>
                   <p><img src="Abdel.png" alt="" title="" height="200" width="200">
                   </p>
                 </b> <button onclick="document.getElementById('id04').style.display='block'"
+=======
+                  <p>Emerging Technologies and IoT.</p>
+                </b>
+                <div align="center"><img src="Abdel.png" alt="" title="" height="200"
+                    width="200"> </div>
+                <button onclick="document.getElementById('id04').style.display='block'"
+>>>>>>> 5908a6359d3891df9277f4bb40f8b82024bb6c76
                   class="w3-button w3-black">Dr Mohamed Abdel-Wahab</button> </div>
               <p></p>
               <div align="center"><b>
