@@ -6,28 +6,28 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="./../xmlrpc.php">
     <!--[if lt IE 9]>
-	<script src="./wp-content/themes/twentyfifteen/js/html5.js"></script>	<![endif]-->
+    <script src="./wp-content/themes/twentyfifteen/js/html5.js"></script>    <![endif]-->
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-    <title>Program – WESYP 2019</title>
+    <title>WESYP - HISTELCON</title>
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Feed" href="./../feed/index.html">
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
       href="./../comments/feed/index.html">
     <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.17"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
+            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.17"}};
+            !function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+        </script>
     <style type="text/css">
 img.wp-smiley,
 img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
 }
 </style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
       type="text/css" media="all">
@@ -39,117 +39,117 @@ img.emoji {
       type="text/css" media="all">
     <style id="twentyfifteen-style-inline-css" type="text/css">
 
-		/* Custom Sidebar Text Color */
-		.site-title a,
-		.site-description,
-		.secondary-toggle:before {
-			color: #0a0a0a;
-		}
+        /* Custom Sidebar Text Color */
+        .site-title a,
+        .site-description,
+        .secondary-toggle:before {
+            color: #0a0a0a;
+        }
 
-		.site-title a:hover,
-		.site-title a:focus {
-			color: #0a0a0a; /* Fallback for IE7 and IE8 */
-			color: rgba( 10, 10, 10, 0.7);
-		}
+        .site-title a:hover,
+        .site-title a:focus {
+            color: #0a0a0a; /* Fallback for IE7 and IE8 */
+            color: rgba( 10, 10, 10, 0.7);
+        }
 
-		.secondary-toggle {
-			border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
-			border-color: rgba( 10, 10, 10, 0.1);
-		}
+        .secondary-toggle {
+            border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+            border-color: rgba( 10, 10, 10, 0.1);
+        }
 
-		.secondary-toggle:hover,
-		.secondary-toggle:focus {
-			border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
-			border-color: rgba( 10, 10, 10, 0.3);
-		}
+        .secondary-toggle:hover,
+        .secondary-toggle:focus {
+            border-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+            border-color: rgba( 10, 10, 10, 0.3);
+        }
 
-		.site-title a {
-			outline-color: #0a0a0a; /* Fallback for IE7 and IE8 */
-			outline-color: rgba( 10, 10, 10, 0.3);
-		}
+        .site-title a {
+            outline-color: #0a0a0a; /* Fallback for IE7 and IE8 */
+            outline-color: rgba( 10, 10, 10, 0.3);
+        }
 
-		@media screen and (min-width: 59.6875em) {
-			.secondary a,
-			.dropdown-toggle:after,
-			.widget-title,
-			.widget blockquote cite,
-			.widget blockquote small {
-				color: #0a0a0a;
-			}
+        @media screen and (min-width: 59.6875em) {
+            .secondary a,
+            .dropdown-toggle:after,
+            .widget-title,
+            .widget blockquote cite,
+            .widget blockquote small {
+                color: #0a0a0a;
+            }
 
-			.widget button,
-			.widget input[type="button"],
-			.widget input[type="reset"],
-			.widget input[type="submit"],
-			.widget_calendar tbody a {
-				background-color: #0a0a0a;
-			}
+            .widget button,
+            .widget input[type="button"],
+            .widget input[type="reset"],
+            .widget input[type="submit"],
+            .widget_calendar tbody a {
+                background-color: #0a0a0a;
+            }
 
-			.textwidget a {
-				border-color: #0a0a0a;
-			}
+            .textwidget a {
+                border-color: #0a0a0a;
+            }
 
-			.secondary a:hover,
-			.secondary a:focus,
-			.main-navigation .menu-item-description,
-			.widget,
-			.widget blockquote,
-			.widget .wp-caption-text,
-			.widget .gallery-caption {
-				color: rgba( 10, 10, 10, 0.7);
-			}
+            .secondary a:hover,
+            .secondary a:focus,
+            .main-navigation .menu-item-description,
+            .widget,
+            .widget blockquote,
+            .widget .wp-caption-text,
+            .widget .gallery-caption {
+                color: rgba( 10, 10, 10, 0.7);
+            }
 
-			.widget button:hover,
-			.widget button:focus,
-			.widget input[type="button"]:hover,
-			.widget input[type="button"]:focus,
-			.widget input[type="reset"]:hover,
-			.widget input[type="reset"]:focus,
-			.widget input[type="submit"]:hover,
-			.widget input[type="submit"]:focus,
-			.widget_calendar tbody a:hover,
-			.widget_calendar tbody a:focus {
-				background-color: rgba( 10, 10, 10, 0.7);
-			}
+            .widget button:hover,
+            .widget button:focus,
+            .widget input[type="button"]:hover,
+            .widget input[type="button"]:focus,
+            .widget input[type="reset"]:hover,
+            .widget input[type="reset"]:focus,
+            .widget input[type="submit"]:hover,
+            .widget input[type="submit"]:focus,
+            .widget_calendar tbody a:hover,
+            .widget_calendar tbody a:focus {
+                background-color: rgba( 10, 10, 10, 0.7);
+            }
 
-			.widget blockquote {
-				border-color: rgba( 10, 10, 10, 0.7);
-			}
+            .widget blockquote {
+                border-color: rgba( 10, 10, 10, 0.7);
+            }
 
-			.main-navigation ul,
-			.main-navigation li,
-			.secondary-toggle,
-			.widget input,
-			.widget textarea,
-			.widget table,
-			.widget th,
-			.widget td,
-			.widget pre,
-			.widget li,
-			.widget_categories .children,
-			.widget_nav_menu .sub-menu,
-			.widget_pages .children,
-			.widget abbr[title] {
-				border-color: rgba( 10, 10, 10, 0.1);
-			}
+            .main-navigation ul,
+            .main-navigation li,
+            .secondary-toggle,
+            .widget input,
+            .widget textarea,
+            .widget table,
+            .widget th,
+            .widget td,
+            .widget pre,
+            .widget li,
+            .widget_categories .children,
+            .widget_nav_menu .sub-menu,
+            .widget_pages .children,
+            .widget abbr[title] {
+                border-color: rgba( 10, 10, 10, 0.1);
+            }
 
-			.dropdown-toggle:hover,
-			.dropdown-toggle:focus,
-			.widget hr {
-				background-color: rgba( 10, 10, 10, 0.1);
-			}
+            .dropdown-toggle:hover,
+            .dropdown-toggle:focus,
+            .widget hr {
+                background-color: rgba( 10, 10, 10, 0.1);
+            }
 
-			.widget input:focus,
-			.widget textarea:focus {
-				border-color: rgba( 10, 10, 10, 0.3);
-			}
+            .widget input:focus,
+            .widget textarea:focus {
+                border-color: rgba( 10, 10, 10, 0.3);
+            }
 
-			.sidebar a:focus,
-			.dropdown-toggle:focus {
-				outline-color: rgba( 10, 10, 10, 0.3);
-			}
-		}
-	
+            .sidebar a:focus,
+            .dropdown-toggle:focus {
+                outline-color: rgba( 10, 10, 10, 0.3);
+            }
+        }
+   
 </style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
       type="text/css" media="all">
     <!--[if lt IE 9]>
@@ -167,48 +167,48 @@ img.emoji {
     <link rel="alternate" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=.%2Fprogram%2F">
     <link rel="alternate" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=.%2Fprogram%2F&amp;format=xml">
     <style type="text/css" id="twentyfifteen-header-css">
-				.site-header {
-			padding-top: 14px;
-			padding-bottom: 14px;
-		}
+                .site-header {
+            padding-top: 14px;
+            padding-bottom: 14px;
+        }
 
-		.site-branding {
-			min-height: 42px;
-		}
+        .site-branding {
+            min-height: 42px;
+        }
 
-		@media screen and (min-width: 46.25em) {
-			.site-header {
-				padding-top: 21px;
-				padding-bottom: 21px;
-			}
-			.site-branding {
-				min-height: 56px;
-			}
-		}
-		@media screen and (min-width: 55em) {
-			.site-header {
-				padding-top: 25px;
-				padding-bottom: 25px;
-			}
-			.site-branding {
-				min-height: 62px;
-			}
-		}
-		@media screen and (min-width: 59.6875em) {
-			.site-header {
-				padding-top: 0;
-				padding-bottom: 0;
-			}
-			.site-branding {
-				min-height: 0;
-			}
-		}
-					.site-title,
-		.site-description {
-			clip: rect(1px, 1px, 1px, 1px);
-			position: absolute;
-		}
-		</style>
+        @media screen and (min-width: 46.25em) {
+            .site-header {
+                padding-top: 21px;
+                padding-bottom: 21px;
+            }
+            .site-branding {
+                min-height: 56px;
+            }
+        }
+        @media screen and (min-width: 55em) {
+            .site-header {
+                padding-top: 25px;
+                padding-bottom: 25px;
+            }
+            .site-branding {
+                min-height: 62px;
+            }
+        }
+        @media screen and (min-width: 59.6875em) {
+            .site-header {
+                padding-top: 0;
+                padding-bottom: 0;
+            }
+            .site-branding {
+                min-height: 0;
+            }
+        }
+                    .site-title,
+        .site-description {
+            clip: rect(1px, 1px, 1px, 1px);
+            position: absolute;
+        }
+        </style>
     <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #5b84cc; }
 </style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
@@ -242,6 +242,8 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
                 <li class="page_item page-item-19"><a href="../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+                <li class="page_item page-item-21"><a href="WESYP-HISTELCON_Joint_Reception.html"><span
+                      style="color: #0a0a0a;">HISTELCON Joint Reception</span></a></li>
                 <li class="page_item page-item-21"><a href="./../program/poster.html">Poster
                     Guidelines</a></li>
                 <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
@@ -363,19 +365,105 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
             <article id="post-21" class="post-21 page type-page status-publish hentry">
               <header class="entry-header">
                 <div align="center">
-                  <h1 class="entry-title">Program</h1>
+                  <h1 class="entry-title">WESYP - HISTELCON 2019</h1>
+                  <h2>Joint Reception</h2>
+                  <p> </p>
+                  <p>Meet global experts, exchange ideas on technology and
+                    network with top industry leaders of tomorrow over a </p>
+                  <p style="language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span
+                      style="font-size:18.0pt;
+font-family:&quot;MS Reference Sans Serif&quot;;mso-ascii-font-family:&quot;MS Reference Sans Serif&quot;;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">FREE
+                      joint reception</span></p>
+                  <p style="language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"></p>
+                  <p style="language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span
+                      style="color: #000099;"><u><a href="https://wesyp.org/joint-reception"
+                          target="_blank"><span style="font-size: 16pt; color: #000099; font-family: &quot;MS Reference Sans Serif&quot;;">Register
+                            now as places are limited</span></a></u></span></p>
+                  <p style="language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><span
+                      style="color: #000099;"><u><a href="WESYP-HISTELCON-JR-Flyer.pdf"
+                          target="_blank"><span style="font-size: 16pt; color: #000099; font-family: &quot;MS Reference Sans Serif&quot;;">Download
+                            Flyer<br>
+                          </span></a></u></span></p>
+                  <p style="language:en-GB;margin-top:0pt;margin-bottom:0pt;margin-left:0in;
+text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging"><a
+                      href="WESYP-HISTELCON-JR-Flyer.pdf" target="_blank"><br>
+                    </a>
+                  </p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;
+mso-style-textfill-fill-alpha:100.0%">Location:</span><span style="font-size:16.0pt;font-family:Corbel;mso-ascii-font-family:
+Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;color:#0067A2;mso-font-kerning:
+12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%"><br>
+                    </span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;font-family:Corbel;mso-ascii-font-family:
+Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;color:#0067A2;mso-font-kerning:
+12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">Level
+                      2 Café Area (street
+                      entrance level),</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">Technology
+                      and Innovation Centre, </span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">University
+                      of Strathclyde.</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;
+mso-style-textfill-fill-alpha:100.0%">Date:</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">19</span><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;vertical-align:super;mso-text-raise:30%;mso-style-textfill-type:solid;mso-style-textfill-fill-color:
+#0067A2;mso-style-textfill-fill-alpha:100.0%">th</span><span style="font-size:
+16.0pt;font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;
+mso-bidi-theme-font:minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:
+#0067A2;mso-style-textfill-fill-alpha:100.0%"> September 2019</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;font-weight:bold;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;
+mso-style-textfill-fill-alpha:100.0%">Time:</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">17:30–
+                      19:30</span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%"><br>
+                    </span></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"></p>
+                  <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; text-align: center;"><span
+                      style="font-size:16.0pt;
+font-family:Corbel;mso-ascii-font-family:Corbel;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:
+minor-bidi;color:#0067A2;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-color:#0067A2;mso-style-textfill-fill-alpha:100.0%">Light
+refreshments
+                      will be provided.</span></p>
                 </div>
               </header>
-              <img src="Tentative_Program_24-7.PNG">
+              <br>
               <div align="center"><br>
               </div>
-              <div align="center">Program Guide</div>
-              <img src="Program_guide_24-7.PNG">
-              <p></p>
-              <p></p>
               <div style="text-align: center;"><span style="color: #1155CC;"><a
                     href="WESYP_Program.pdf" target="_blank">Click here to
-                    download Program<br>
+                    download Program</a></span><br>
+                <span style="color: #1155CC;"><a href="WESYP_Program.pdf" target="_blank">
                   </a></span></div>
               <div style="text-align: center;"><span style="color: #1155CC;"><a
                     href="WESYP_Flyer.pdf" target="_blank">Download WESYP 2019
