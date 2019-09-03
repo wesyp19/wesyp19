@@ -428,7 +428,7 @@ style="font-size:12pt;font-family:Arial;color:#000000;background-color:transpare
                       <li> Travel Grant is only available on full registration
                         and it is the candidate’s responsibility to apply for it
                         at the time of registration via email to the WESYP
-                        committee <a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a>
+                        committee <u style="color: #000099;"><a href="mailto:wesyp2019@gmail.com">wesyp2019@gmail.com</a></u>
                       </li>
                       <li> All grant email requests to the WESYP committee
                         should state the applicants purpose of attending the
@@ -447,8 +447,12 @@ style="font-size:12pt;font-family:Arial;color:#000000;background-color:transpare
                         certificate. </li>
                       <li> For candidates that don’t qualify for the WESYP 2019
                         Travel grant, further information on other grants
-                        available can be found <a href="https://www.facebook.com/422090314527168/posts/2073623792707137/?app=fbl">here
-                          </a>and <a href="https://www.ieee.org/membership/students/awards/student-travel-grants.html">https://www.ieee.org/membership/students/awards/student-travel-grants.html</a></li>
+                        available can be found <u><a href="https://www.facebook.com/422090314527168/posts/2073623792707137/?app=fbl"
+                            style="color: #000099;">here</a></u><a href="https://www.facebook.com/422090314527168/posts/2073623792707137/?app=fbl"
+                          style="color: #000099;">
+                        </a><u><a href="https://www.facebook.com/422090314527168/posts/2073623792707137/?app=fbl"
+                            style="color: #000099;"> </a></u>and <u><a href="https://www.ieee.org/membership/students/awards/student-travel-grants.html"
+                            style="color: #000099;">https://www.ieee.org/membership/students/awards/student-travel-grants.html</a></u></li>
                     </b></div>
                   <b style="font-weight:normal;">
                     <p></p>
