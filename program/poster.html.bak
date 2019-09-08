@@ -242,6 +242,8 @@ body.custom-background { background-color: #5b84cc; }
                 <li class="page_item page-item-8 current_page_item"><a href="https://wesyp.org/home/index.html">Home</a></li>
                 <li class="page_item page-item-19"><a href="../about/index.html">About</a></li>
                 <li class="page_item page-item-21"><a href="./../program/index.html">Program</a></li>
+                <li class="page_item page-item-21"><a href="../program/WESYP-HISTELCON_Joint_Reception.html">HISTELCON
+                    Joint Reception</a></li>
                 <li class="page_item page-item-21"><a href="./../program/poster.html">Poster
                     Guidelines</a></li>
                 <li class="page_item page-item-21"><a href="./../speakers/index.html">Speakers</a></li>
@@ -404,9 +406,10 @@ Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-famil
                 <p> </p>
                 <ul type="circle">
                   <li>Title of the project</li>
-                  <li>Your university logo, <a href="https://drive.google.com/open?id=11i4S-rVUA3pWxGN1Mtmvb0lUg5iAOj_t">WESYP
-                      logo</a> and the logo of supporting industry (if your
-                    project is sponsored by any).</li>
+                  <li>Your university logo, <u><a href="https://drive.google.com/open?id=11i4S-rVUA3pWxGN1Mtmvb0lUg5iAOj_t"
+                        style="color: #000099;">WESYP logo</a></u> and the logo
+                    of supporting industry (if your project is sponsored by
+                    any).</li>
                   <li>The name of the poster presenter or presenters and
                     supervisors.</li>
                   <li>An "Introduction" to the project (rationale, background,
