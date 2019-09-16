@@ -12,7 +12,8 @@
     <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
     <title>Speakers – WESYP 2019</title>
     <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Feed" href="./../feed/index.html">
-    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
+    <link rel="alternate" type="application/rss+xml" title="WESYP 2019 » Comments Feed"
+
       href="./../comments/feed/index.html">
     <script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.17"}};
@@ -31,13 +32,17 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }
-</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+</style> <link rel="stylesheet" id="blossomthemes-email-newsletter-css" href="./../wp-content/plugins/blossomthemes-email-newsletter/public/css/blossomthemes-email-newsletter-public.min.css?ver=2.0.0"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
+    <link rel="stylesheet" id="twentyfifteen-fonts-css" href="https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&amp;subset=latin%2Clatin-ext"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="genericons-css" href="./../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2"
+    <link rel="stylesheet" id="genericons-css" href="./../wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2"
+
       type="text/css" media="all">
-    <link rel="stylesheet" id="twentyfifteen-style-css" href="./../wp-content/themes/twentyfifteen/style.css?ver=4.5.17"
+    <link rel="stylesheet" id="twentyfifteen-style-css" href="./../wp-content/themes/twentyfifteen/style.css?ver=4.5.17"
+
       type="text/css" media="all">
     <style id="twentyfifteen-style-inline-css" type="text/css">
 
@@ -152,7 +157,8 @@ img.emoji {
 			}
 		}
 	
-</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+</style> <link rel="stylesheet" id="twentyfifteen-block-style-css" href="./../wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230"
+
       type="text/css" media="all">
     <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentyfifteen-ie-css'  href='./wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' /><![endif]-->
@@ -213,21 +219,27 @@ img.emoji {
 		</style>
     <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #5b84cc; }
-</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+</style> <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-32x32.png"
+
       sizes="32x32">
-    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
+    <link rel="icon" href="./../wp-content/uploads/2019/07/cropped-website-icon-192x192.png"
+
       sizes="192x192">
     <link rel="apple-touch-icon-precomposed" href="./../wp-content/uploads/2019/07/cropped-website-icon-180x180.png">
     <meta name="msapplication-TileImage" content="./wp-content/uploads/2019/07/cropped-website-icon-270x270.png">
   </head>
   <body class="page page-id-21 page-template-default custom-background wp-custom-logo">
-    <div id="page" class="hfeed site"> <a class="skip-link screen-reader-text"
+    <div id="page" class="hfeed site"> <a class="skip-link screen-reader-text"
+
         href="#content">Skip to content</a>
       <div id="sidebar" class="sidebar">
         <header id="masthead" class="site-header" role="banner">
-          <div class="site-branding"> <a href="./../index.html" class="custom-logo-link"
-              rel="home" itemprop="url"><img src="./../wp-content/uploads/2019/07/cropped-page-header.png"
-                class="custom-logo" alt="cropped-page-header.png" itemprop="logo"
+          <div class="site-branding"> <a href="./../index.html" class="custom-logo-link"
+
+              rel="home" itemprop="url"><img src="./../wp-content/uploads/2019/07/cropped-page-header.png"
+
+                class="custom-logo" alt="cropped-page-header.png" itemprop="logo"
+
                 height="124" width="248"></a>
             <p class="site-title"><a href="./../index.html" rel="home">WESYP
                 2019</a></p>
@@ -260,101 +272,145 @@ mso-ansi-language:EN-US" lang="EN-US">Gold Sponsor</span></b></div>
             <div style="text-align: center;"><b><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US"><br>
                 </span></b></div>
-            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.gcu.ac.uk/"><span
+
                   style="color:windowtext;mso-no-proof:yes;
-text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
-                      src="Sponsors_files/image002.png" alt="Image result for Glasgow caledonian logo"
-                      border="0" height="118" width="216"></span></span></a><span
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+
+                      src="Sponsors_files/image002.png" alt="Image result for Glasgow caledonian logo"
+
+                      border="0" height="118" width="216"></span></span></a><span
+
                 style="mso-ansi-language:EN-US" lang="EN-US"></span></p>
-            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+
                   style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US">Silver Sponsor</span></b></p>
-            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.sicsa.ac.uk/"><span
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.sicsa.ac.uk/"><span
+
                   style="color:windowtext;
-mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
-                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
-                      border="0" height="138" width="208"></span></span></a><span
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                  lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image004.jpg"
+
+                      border="0" height="138" width="208"></span></span></a><span
+
                 style="mso-ansi-language:EN-US" lang="EN-US"></span></p>
-            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+            <p class="MsoNormal" style="text-align:center" align="center"><b><span
+
                   style="font-size:16.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US">Supporting Partners</span></b></p>
-            <div style="text-align: center;"><a href="https://ias.ieee.org/"><span
+            <div style="text-align: center;"><a href="https://ias.ieee.org/"><span
+
                   style="color:windowtext;mso-no-proof:
 yes;text-decoration:none;text-underline:none"><img src="Logos/IAS.jpg" style="width: 184px; height: 121px;"></span><br>
               </a><a href="https://ias.ieee.org/"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Corbel&quot;,sans-serif;
 mso-ansi-language:EN-US" lang="EN-US"></span></a></div>
-            <div style="text-align: center;"><a href="https://ias.ieee.org/"><span
+            <div style="text-align: center;"><a href="https://ias.ieee.org/"><span
+
                   style="color:windowtext;mso-no-proof:
-yes;text-decoration:none;text-underline:none"></span></a><a href="https://yp.ieee.org/"><span
+yes;text-decoration:none;text-underline:none"></span></a><a href="https://yp.ieee.org/"><span
+
                   style="color:windowtext;mso-no-proof:yes;
 text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span></span></a><br>
               <a href="https://yp.ieee.org/"><span style="color:windowtext;mso-no-proof:yes;
 text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"> </span></span></a></div>
-            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.comsoc.org/"><span
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.comsoc.org/"><span
+
                   style="color:windowtext;mso-no-proof:
-yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" alt=""
+yes;text-decoration:none;text-underline:none"><img src="Logos/ComSoc_logo.jpg" alt=""
+
                     style="width: 213px; height: 94px;"></span></a><a href="https://signalprocessingsociety.org">
               </a></p>
-            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-pes.org"><img
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://www.ieee-pes.org"><img
+
                   src="Logos/PES_logo.jpg" alt="" style="width: 209px; height: 144px;"><br>
               </a></p>
-            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://signalprocessingsociety.org"><img
-                  src="Logos/SPS_logo.png" style="width: 222px; height: 149px;"
+            <p class="MsoNormal" style="text-align:center" align="center"><a href="https://signalprocessingsociety.org"><img
+
+                  src="Logos/SPS_logo.png" style="width: 222px; height: 149px;"
+
                   alt=""><br>
               </a></p>
-            <div style="text-align: center;"><a href="https://www.ieeeaps.org"><img
+            <div style="text-align: center;"><a href="https://www.ieeeaps.org"><img
+
                   src="Logos/IEEE_APS.png" alt="" style="width: 242px; height: 234px;"></a><br>
             </div>
             <br>
-            <div style="text-align: center;"><a href="https://www.photonicssociety.org"><img
-                  src="Logos/IEE-15-TA-325_PhotonicsSocietyLogo_Final_RGB.png" alt=""
+            <div style="text-align: center;"><a href="https://www.photonicssociety.org"><img
+
+                  src="Logos/IEE-15-TA-325_PhotonicsSocietyLogo_Final_RGB.png" alt=""
+
                   style="width: 219px; height: 87px;"></a><br>
             </div>
             <br>
-            <div style="text-align: center;"><a href="https://ieeer8.org/category/technical-activities/professional-and-educational-activities/programs-professional-and-educational-activities/pea-speakers-program/"><img
-                  src="Logos/Logo%20IEEE%20R8%20PEA.jpg" alt="" style="width: 170px; height: 170px;"><br>
+            <div style="text-align: center;"><a href="https://ieeer8.org/category/technical-activities/professional-and-educational-activities/programs-professional-and-educational-activities/pea-speakers-program/"><img
+
+                  src="../program/Logos/Logo%20IEEE%20R8%20PEA.jpeg" style="width: 170px; height: 170px;"><br>
               </a></div>
             <div style="text-align: center;"><a href="https://ieeer8.org/category/technical-activities/professional-and-educational-activities/programs-professional-and-educational-activities/pea-speakers-program/"><br>
               </a></div>
-            <div style="text-align: center;"><a href="https://ieeer8.org/student-activities/sac/"><img
+            <div style="text-align: center;"><a href="https://ieeer8.org/student-activities/sac/"><img
+
                   src="Logos/IEEER8SAC_logo.png" style="width: 123px; height: 123px;"></a><br>
             </div>
             <div class="widget-area" role="complementary"><br>
-              <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
+              <p class="MsoNormal" style="text-align:center" align="center"><a href="https://yp.ieee.org/"><span
+
                     style="color:windowtext;mso-no-proof:yes;
-text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
-                      style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"></span><span
+
+                      style="mso-ignore:vglayout"></span></span></a><a href="https://www.ieee-ukandireland.org/"><span
+
                     style="color:windowtext;
-mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
-                    lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
-                        border="0" height="59" width="210"></span></span></a><a
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                    lang="EN-US"><span style="mso-ignore:vglayout"><img src="Sponsors_files/image021.png"
+
+                        border="0" height="59" width="210"></span></span></a><a
+
                   href="https://www.ieee-ukandireland.org/"> </a></p>
-              <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
+              <p class="MsoNormal" style="text-align:center" align="center"><a href="https://twitter.com/GCU_IEEESB"><span
+
                     style="color:windowtext;mso-no-proof:
-yes;text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
-                        src="Logos/GCU_IEEE_SB_logo.png" border="0" height="89"
-                        width="185"></span></span></a><b><span style="color:#4472C4;mso-themecolor:accent1;mso-ansi-language:EN-US"
+yes;text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+
+                        src="Logos/GCU_IEEE_SB_logo.png" border="0" height="89"
+
+                        width="185"></span></span></a><b><span style="color:#4472C4;mso-themecolor:accent1;mso-ansi-language:EN-US"
+
                     lang="EN-US"></span></b></p>
-              <div style="text-align: center;"><a href="https://ieeer8.org/"><span
+              <div style="text-align: center;"><a href="https://ieeer8.org/"><span
+
                     style="color:windowtext;mso-no-proof:yes;
-text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
-                        src="Logos/IEEERegion8.jpg" alt="Image result for IEEE UK section"
-                        border="0" height="62" width="189"></span></span></a><span
+text-decoration:none;text-underline:none"><span style="mso-ignore:vglayout"><img
+
+                        src="Logos/IEEERegion8.jpg" alt="Image result for IEEE UK section"
+
+                        border="0" height="62" width="189"></span></span></a><span
+
                   style="mso-ansi-language:EN-US" lang="EN-US"></span></div>
-              <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+              <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+
                     style="color:windowtext;
-mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
                     lang="EN-US"><span style="mso-ignore:vglayout"><br>
                     </span></span></a></p>
-              <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+              <p class="MsoNormal" style="text-align:center" align="center"><a href="http://www.ieeeukiyp.org/"><span
+
                     style="color:windowtext;
-mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
-                    lang="EN-US"><span style="mso-ignore:vglayout"><img src="Logos/IEEE_YPLogo_RGB_Horiz.png"
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                    lang="EN-US"><span style="mso-ignore:vglayout"><img src="Logos/IEEE_YPLogo_RGB_Horiz.png"
+
                         border="0" height="66" width="213"></span></span></a></p>
             </div>
             <a href="http://www.ieeeukiyp.org/"><span style="color:windowtext;
-mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
-                lang="EN-US"><span style="mso-ignore:vglayout"></span><!--[endif]--></span></a><span
+mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:none"
+
+                lang="EN-US"><span style="mso-ignore:vglayout"></span><!--[endif]--></span></a><span
+
               style="mso-ansi-language:EN-US" lang="EN-US"><o:p></o:p></span> </div>
           <!-- .widget-area --> </div>
         <!-- .secondary --> </div>
@@ -372,66 +428,93 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
               <div align="center"><b>Looking to the Future: Emerging Trends for
                   the Next Decade and Beyond.</b></div>
               <p></p>
-              <div align="center"><img src="Theo.png" alt="" title="" height="300"
+              <div align="center"><img src="Theo.png" alt="" title="" height="300"
+
                   width="200"> </div>
-              <div align="center"> <button onclick="document.getElementById('id01').style.display='block'"
+              <div align="center"> <button onclick="document.getElementById('id01').style.display='block'"
+
                   class="w3-button w3-black">Mr. Theo Priestley</button> </div>
               <p></p>
               <p><b></b></p>
               <div align="center"><b>Zero Carbon/ Hydrogen Based Economy.</b></div>
               <p></p>
-              <div align="center"><img src="Alex.png" alt="" title="" height="300"
+              <div align="center"><img src="Alex.png" alt="" title="" height="300"
+
                   width="200"> </div>
-              <div align="center"> <button onclick="document.getElementById('id05').style.display='block'"
+              <div align="center"> <button onclick="document.getElementById('id05').style.display='block'"
+
                   class="w3-button w3-black">Derek Alexander-Wilson</button> </div>
               <p></p>
               <div align="center"><b>
                   <p>The Common Good.</p>
                 </b>
-                <div align="center"><img src="Julie.png" alt="" title="" height="344"
+                <div align="center"><img src="Julie.png" alt="" title="" height="344"
+
                     width="200"> </div>
-                <button onclick="document.getElementById('id02').style.display='block'"
+                <button onclick="document.getElementById('id02').style.display='block'"
+
                   class="w3-button w3-black">Julie Adair</button> </div>
               <p></p>
               <div align="center"><b>
-                  <p>Next Generation Networked Systems</p>
+                  <p>Next Generation Networked Systems.</p>
                 </b>
-                <div align="center"><img src="Chris.png" alt="" title="" height="644"
+                <div align="center"><img src="Chris.png" alt="" title="" height="644"
+
                     width="200"> </div>
-                <button onclick="document.getElementById('id03').style.display='block'"
+                <button onclick="document.getElementById('id03').style.display='block'"
+
                   class="w3-button w3-black">Dr Christos Anagnostopoulos</button>
               </div>
               <p></p>
               <div align="center"><b>
                   <p>Applications of digital technologies in construction with
-                    focus on VR</p>
-                  <p><img src="Abdel.png" alt="" title="" height="200" width="200">
-                  </p>
-                </b> <button onclick="document.getElementById('id04').style.display='block'"
+                    focus on VR.</p>
+                </b>
+                <div align="center"><img src="Abdel.png" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id04').style.display='block'"
+
                   class="w3-button w3-black">Dr Mohamed Abdel-Wahab</button> </div>
               <p></p>
               <div align="center"><b>
-                  <p>Professional Development Workshop</p>
+                  <p>Robotics Workshop by SeeByte and NOC.</p>
                 </b>
-                <div align="center"><img src="Lynn.jpg" alt="" title="" height="200"
+                <div align="center"><img src="Andrea%20Munafo/munafo-1.jpg" height="200"
+
                     width="200"> </div>
-                <button onclick="document.getElementById('id06').style.display='block'"
+                <button onclick="document.getElementById('id09').style.display='block'"
+
+                  class="w3-button w3-black">andrea munafo</button>
+                <p></p>
+              </div>
+              <p></p>
+              <p></p>
+              <div align="center"><b>
+                  <p>Professional Development Workshop.</p>
+                </b>
+                <div align="center"><img src="Lynn.jpg" alt="" title="" height="200"
+
+                    width="200"> </div>
+                <button onclick="document.getElementById('id06').style.display='block'"
+
                   class="w3-button w3-black">Lynn Tomkins</button> </div>
               <p></p>
               <div align="center"><b>
-                  <p>Sub-plenary 2.1 and Panel Discussion</p>
+                  <p>Sub-plenary and Panel Discussion.</p>
                 </b>
-                <div align="center"><img src="Jo.jpg" alt="" title="" height="200"
+                <div align="center"><img src="Jo.jpg" alt="" title="" height="200"
+
                     width="200"> </div>
-                <button onclick="document.getElementById('id07').style.display='block'"
+                <button onclick="document.getElementById('id07').style.display='block'"
+
                   class="w3-button w3-black">Jo Watts</button> </div>
               <p></p>
-              <div align="center"><b>
-                  <p>Sub-plenary 2.1 and Panel Discussion</p>
-                </b>
+              <div align="center"><b> </b>
                 <div align="center"><img src="Hadi.jpeg" height="200" width="200">
                 </div>
-                <button onclick="document.getElementById('id08').style.display='block'"
+                <button onclick="document.getElementById('id08').style.display='block'"
+
                   class="w3-button w3-black">Hadi Heidari</button> </div>
               <p></p>
               <p></p>
@@ -440,7 +523,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
                 </b>
                 <div id="id01" class="w3-modal">
                   <div class="w3-modal-content w3-card-4">
-                    <header class="w3-container w3-teal"> <span onclick="document.getElementById('id01').style.display='none'"
+                    <header class="w3-container w3-teal"> <span onclick="document.getElementById('id01').style.display='none'"
+
                         class="w3-button w3-display-topright">×</span>
                       <h2>Theo Priestley</h2>
                     </header>
@@ -473,7 +557,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
               </div>
               <div id="id02" class="w3-modal">
                 <div class="w3-modal-content w3-card-4">
-                  <header class="w3-container w3-teal"> <span onclick="document.getElementById('id02').style.display='none'"
+                  <header class="w3-container w3-teal"> <span onclick="document.getElementById('id02').style.display='none'"
+
                       class="w3-button w3-display-topright">×</span>
                     <h2>Julie Adair</h2>
                   </header>
@@ -504,13 +589,15 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
           </main>
         </div>
         <div style="text-align: right;">
-          <footer>Copyright<span style="color: rgb(145, 145, 145); font-family: Lato, arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 0, 0); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><span
+          <footer>Copyright<span style="color: rgb(145, 145, 145); font-family: Lato, arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 0, 0); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><span
+
                 style="color: #333333;"><span style="font-family: &quot;Noto Serif&quot;,serif;"></span></span></span>
             © 2019 WESYP</footer>
         </div>
         <div id="id03" class="w3-modal">
           <div class="w3-modal-content w3-card-4">
-            <header class="w3-container w3-teal"> <span onclick="document.getElementById('id03').style.display='none'"
+            <header class="w3-container w3-teal"> <span onclick="document.getElementById('id03').style.display='none'"
+
                 class="w3-button w3-display-topright">×</span>
               <h2>Dr Christos Anagnostopoulos </h2>
             </header>
@@ -544,7 +631,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
       </div>
       <div id="id04" class="w3-modal">
         <div class="w3-modal-content w3-card-4">
-          <header class="w3-container w3-teal"> <span onclick="document.getElementById('id04').style.display='none'"
+          <header class="w3-container w3-teal"> <span onclick="document.getElementById('id04').style.display='none'"
+
               class="w3-button w3-display-topright">×</span>
             <h2>Dr Mohamed Abdel-Wahab</h2>
           </header>
@@ -574,9 +662,64 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
         </div>
       </div>
     </div>
+    <div id="id09" class="w3-modal">
+      <div class="w3-modal-content w3-card-4">
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id09').style.display='none'"
+
+            class="w3-button w3-display-topright">×</span>
+          <h2>Andrea Munafò</h2>
+        </header>
+        <div class="w3-container">
+          <p> <b>“Autonomous underwater vehicles: exploring the ocean from coast to
+            the deep sea” </b></p><p>
+            71% of Earth’s surface is covered by water.
+            Nevertheless, oceans are mostly unknown, with more than 80% still
+            unmapped, unobserved and unexplored. Oceanographic robots and
+            increasingly sophisticated sensors have enabled to measure places
+            not easily accessible through conventional means. These new systems
+            provide complementary information with respect to what is available
+            from ships by acting as force-multipliers. They can provide ground
+            truth for satellite remote sensing and extend measurements along the
+            3rd spatial dimension—depth. Endowed with on-board intelligence and
+            the capability to move and/or adapt to the environment,
+            oceanographic robotics has the potential to improve the quality and
+            persistence of observations, at a fraction of the cost of additional
+            ships. Moreover, by building networks of smartly interconnected
+            sensors, these robotic and autonomous systems can overcome their
+            intrinsic limitations and provide a step change in our ability to
+            understand the oceans. This work will show some examples on how the
+            new robots are revolutionising our way of exploring and monitoring
+            the ocean.</p> 
+          
+         <p> <b>Bio</b> Andrea Munafò (M’09) received the B.Sc. degree in
+            computer science engineering, the M.Sc. degree in automation
+            engineering, and the Ph.D. degree in automation, robotics and
+            bioengineering, all from the University of Pisa, Pisa, Italy, in
+            2002, 2005, and 2009, respectively. From 2009 to 2013, he was a
+            postdoctoral student with the Inter-university Centre of Integrated
+            Systems for the Marine Environment, Italy. He was with the NATO STO
+            Centre for Maritime Research and Experimentation, La Spezia, Italy,
+            from 2013 to 2016 as a Research Scientist, working in the field of
+            cooperative underwater robotics and underwater communications. From
+            2017 to 2019, he has been a Principal Engineer with the Marine
+            Autonomous and Robotics System Department, National Oceanography
+            Center, Southampton, U.K., where he led the development of
+            groundbreaking on-board autonomy solutions for ocean exploration. In
+            2019 he has joined SeeByte, ltd. where he is leading the company
+            autonomy programmes to deliver the next generation of collaborative
+            marine autonomy. His research interests include marine robotics,
+            underwater acoustics and sonar systems, adaptive planning and
+            sampling. </p>
+        </div>
+        <footer class="w3-container w3-teal">
+          <p>SeeByte</p>
+        </footer>
+      </div>
+    </div>
     <div id="id05" class="w3-modal">
       <div class="w3-modal-content w3-card-4">
-        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id05').style.display='none'"
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id05').style.display='none'"
+
             class="w3-button w3-display-topright">×</span>
           <h2>Derek Alexander-Wilson</h2>
         </header>
@@ -598,7 +741,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
             zero pollution energy generation / distribution biodiversity
             enhancing solutions using proven technology.</p>
           <p> (3) Implement UN emergency resolution to enshrine in law "Ecocide"
-            legal protection for the environment and biodiversity as outlined <a
+            legal protection for the environment and biodiversity as outlined <a
+
               href="https://www.youtube.com/watch?v=FQKhOPihzSQ">here</a>.</p>
         </div>
         <footer class="w3-container w3-teal">
@@ -608,14 +752,15 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
     </div>
     <div id="id06" class="w3-modal">
       <div class="w3-modal-content w3-card-4">
-        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id06').style.display='none'"
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id06').style.display='none'"
+
             class="w3-button w3-display-topright">×</span>
           <h2>Lynn Tomkins</h2>
         </header>
         <div class="w3-container">
-          <p>Session-I (2:00 - 2:45 pm) Networking - skills, methods and
+          <p>Session-I (2:00 - 2:45 pm) Boost your Career in 60 minutes.</p>
+          <p>Session-II (2:45 - 3:30 pm) Networking - skills, methods and
             opporutnities.</p>
-          <p>Session-II (2:45 - 3:30 pm) Diversity and Inclusion.</p>
           <p>Lynn is a highly experienced operator in the skills environment.
             She is Chair of Skills4, the UK's leading provider of the award
             winning Career Development Programmes for women as well as other
@@ -644,7 +789,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
     </div>
     <div id="id07" class="w3-modal">
       <div class="w3-modal-content w3-card-4">
-        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id07').style.display='none'"
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id07').style.display='none'"
+
             class="w3-button w3-display-topright">×</span>
           <h2>Jo Watts</h2>
         </header>
@@ -670,7 +816,8 @@ mso-ansi-language:EN-US;mso-no-proof:yes;text-decoration:none;text-underline:non
     </div>
     <div id="id08" class="w3-modal">
       <div class="w3-modal-content w3-card-4">
-        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id08').style.display='none'"
+        <header class="w3-container w3-teal"> <span onclick="document.getElementById('id08').style.display='none'"
+
             class="w3-button w3-display-topright">×</span>
           <h2>Hadi Heidari</h2>
         </header>
@@ -811,5 +958,14 @@ window.onclick = function(event) {
     modal7.style.display = "none";
   }
 }
-</script> </body>
+var modal8 = document.getElementById('id09');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal8) {
+    modal8.style.display = "none";
+  }
+}
+</script>
+  </body>
 </html>
