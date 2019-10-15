@@ -23,152 +23,144 @@ filter: grayscale(50%);
     <title>WESYP '19 Gallery</title>
   </head>
   <body>
-    <div class="gallery"> 
-      
-      <a href="Photos/WESYP19-001.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-001-small.jpg"></a>
+    <div style="text-align: center;"><img src="../WESYP_Logo_highres.png" alt=""></div>
+    <div style="text-align: center;">
+      <h1><strong>Photo Gallery</strong></h1>
+    </div>
+    <div class="gallery" style="text-align:center"> <a href="Photos/WESYP19-001.jpg"
+        data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-001-small.jpg"></a>
       <a href="Photos/WESYP19-002.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-002-small.jpg"></a>
       <a href="Photos/WESYP19-003.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-003-small.jpg"></a>
       <a href="Photos/WESYP19-004.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-004-small.jpg"></a>
-      
-     
-      <a href="Photos/WESYP19-001.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-001-small.jpg"></a>
-<a href="Photos/WESYP19-002.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-002-small.jpg"></a>
-<a href="Photos/WESYP19-003.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-003-small.jpg"></a>
-<a href="Photos/WESYP19-004.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-004-small.jpg"></a>
-<a href="Photos/WESYP19-005.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-005-small.jpg"></a>
-<a href="Photos/WESYP19-006.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-006-small.jpg"></a>
-<a href="Photos/WESYP19-007.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-007-small.jpg"></a>
-<a href="Photos/WESYP19-008.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-008-small.jpg"></a>
-<a href="Photos/WESYP19-009.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-009-small.jpg"></a>
-<a href="Photos/WESYP19-010.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-010-small.jpg"></a>
-<a href="Photos/WESYP19-011.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-011-small.jpg"></a>
-<a href="Photos/WESYP19-012.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-012-small.jpg"></a>
-<a href="Photos/WESYP19-013.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-013-small.jpg"></a>
-<a href="Photos/WESYP19-014.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-014-small.jpg"></a>
-<a href="Photos/WESYP19-015.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-015-small.jpg"></a>
-<a href="Photos/WESYP19-016.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-016-small.jpg"></a>
-<a href="Photos/WESYP19-017.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-017-small.jpg"></a>
-<a href="Photos/WESYP19-018.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-018-small.jpg"></a>
-<a href="Photos/WESYP19-019.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-019-small.jpg"></a>
-<a href="Photos/WESYP19-020.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-020-small.jpg"></a>
-<a href="Photos/WESYP19-021.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-021-small.jpg"></a>
-<a href="Photos/WESYP19-022.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-022-small.jpg"></a>
-<a href="Photos/WESYP19-023.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-023-small.jpg"></a>
-<a href="Photos/WESYP19-024.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-024-small.jpg"></a>
-<a href="Photos/WESYP19-025.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-025-small.jpg"></a>
-<a href="Photos/WESYP19-026.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-026-small.jpg"></a>
-<a href="Photos/WESYP19-027.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-027-small.jpg"></a>
-<a href="Photos/WESYP19-028.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-028-small.jpg"></a>
-<a href="Photos/WESYP19-029.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-029-small.jpg"></a>
-<a href="Photos/WESYP19-030.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-030-small.jpg"></a>
-<a href="Photos/WESYP19-031.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-031-small.jpg"></a>
-<a href="Photos/WESYP19-032.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-032-small.jpg"></a>
-<a href="Photos/WESYP19-033.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-033-small.jpg"></a>
-<a href="Photos/WESYP19-034.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-034-small.jpg"></a>
-<a href="Photos/WESYP19-035.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-035-small.jpg"></a>
-<a href="Photos/WESYP19-036.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-036-small.jpg"></a>
-<a href="Photos/WESYP19-037.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-037-small.jpg"></a>
-<a href="Photos/WESYP19-038.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-038-small.jpg"></a>
-<a href="Photos/WESYP19-039.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-039-small.jpg"></a>
-<a href="Photos/WESYP19-040.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-040-small.jpg"></a>
-<a href="Photos/WESYP19-041.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-041-small.jpg"></a>
-<a href="Photos/WESYP19-042.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-042-small.jpg"></a>
-<a href="Photos/WESYP19-043.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-043-small.jpg"></a>
-<a href="Photos/WESYP19-044.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-044-small.jpg"></a>
-<a href="Photos/WESYP19-045.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-045-small.jpg"></a>
-<a href="Photos/WESYP19-046.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-046-small.jpg"></a>
-<a href="Photos/WESYP19-047.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-047-small.jpg"></a>
-<a href="Photos/WESYP19-048.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-048-small.jpg"></a>
-<a href="Photos/WESYP19-049.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-049-small.jpg"></a>
-<a href="Photos/WESYP19-050.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-050-small.jpg"></a>
-<a href="Photos/WESYP19-051.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-051-small.jpg"></a>
-<a href="Photos/WESYP19-052.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-052-small.jpg"></a>
-<a href="Photos/WESYP19-053.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-053-small.jpg"></a>
-<a href="Photos/WESYP19-054.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-054-small.jpg"></a>
-<a href="Photos/WESYP19-055.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-055-small.jpg"></a>
-<a href="Photos/WESYP19-056.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-056-small.jpg"></a>
-<a href="Photos/WESYP19-057.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-057-small.jpg"></a>
-<a href="Photos/WESYP19-058.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-058-small.jpg"></a>
-<a href="Photos/WESYP19-059.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-059-small.jpg"></a>
-<a href="Photos/WESYP19-060.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-060-small.jpg"></a>
-<a href="Photos/WESYP19-061.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-061-small.jpg"></a>
-<a href="Photos/WESYP19-062.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-062-small.jpg"></a>
-<a href="Photos/WESYP19-063.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-063-small.jpg"></a>
-<a href="Photos/WESYP19-064.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-064-small.jpg"></a>
-<a href="Photos/WESYP19-065.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-065-small.jpg"></a>
-<a href="Photos/WESYP19-066.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-066-small.jpg"></a>
-<a href="Photos/WESYP19-067.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-067-small.jpg"></a>
-<a href="Photos/WESYP19-068.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-068-small.jpg"></a>
-<a href="Photos/WESYP19-069.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-069-small.jpg"></a>
-<a href="Photos/WESYP19-070.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-070-small.jpg"></a>
-<a href="Photos/WESYP19-071.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-071-small.jpg"></a>
-<a href="Photos/WESYP19-072.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-072-small.jpg"></a>
-<a href="Photos/WESYP19-073.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-073-small.jpg"></a>
-<a href="Photos/WESYP19-074.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-074-small.jpg"></a>
-<a href="Photos/WESYP19-075.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-075-small.jpg"></a>
-<a href="Photos/WESYP19-076.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-076-small.jpg"></a>
-<a href="Photos/WESYP19-077.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-077-small.jpg"></a>
-<a href="Photos/WESYP19-078.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-078-small.jpg"></a>
-<a href="Photos/WESYP19-079.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-079-small.jpg"></a>
-<a href="Photos/WESYP19-080.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-080-small.jpg"></a>
-<a href="Photos/WESYP19-081.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-081-small.jpg"></a>
-<a href="Photos/WESYP19-082.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-082-small.jpg"></a>
-<a href="Photos/WESYP19-083.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-083-small.jpg"></a>
-<a href="Photos/WESYP19-084.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-084-small.jpg"></a>
-<a href="Photos/WESYP19-085.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-085-small.jpg"></a>
-<a href="Photos/WESYP19-086.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-086-small.jpg"></a>
-<a href="Photos/WESYP19-087.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-087-small.jpg"></a>
-<a href="Photos/WESYP19-088.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-088-small.jpg"></a>
-<a href="Photos/WESYP19-089.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-089-small.jpg"></a>
-<a href="Photos/WESYP19-090.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-090-small.jpg"></a>
-<a href="Photos/WESYP19-091.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-091-small.jpg"></a>
-<a href="Photos/WESYP19-092.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-092-small.jpg"></a>
-<a href="Photos/WESYP19-093.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-093-small.jpg"></a>
-<a href="Photos/WESYP19-094.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-094-small.jpg"></a>
-<a href="Photos/WESYP19-095.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-095-small.jpg"></a>
-<a href="Photos/WESYP19-096.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-096-small.jpg"></a>
-<a href="Photos/WESYP19-097.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-097-small.jpg"></a>
-<a href="Photos/WESYP19-098.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-098-small.jpg"></a>
-<a href="Photos/WESYP19-099.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-099-small.jpg"></a>
-<a href="Photos/WESYP19-100.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-100-small.jpg"></a>
-<a href="Photos/WESYP19-101.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-101-small.jpg"></a>
-<a href="Photos/WESYP19-102.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-102-small.jpg"></a>
-<a href="Photos/WESYP19-103.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-103-small.jpg"></a>
-<a href="Photos/WESYP19-104.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-104-small.jpg"></a>
-<a href="Photos/WESYP19-105.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-105-small.jpg"></a>
-<a href="Photos/WESYP19-106.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-106-small.jpg"></a>
-<a href="Photos/WESYP19-107.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-107-small.jpg"></a>
-<a href="Photos/WESYP19-108.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-108-small.jpg"></a>
-<a href="Photos/WESYP19-109.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-109-small.jpg"></a>
-<a href="Photos/WESYP19-110.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-110-small.jpg"></a>
-<a href="Photos/WESYP19-111.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-111-small.jpg"></a>
-<a href="Photos/WESYP19-112.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-112-small.jpg"></a>
-<a href="Photos/WESYP19-113.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-113-small.jpg"></a>
-<a href="Photos/WESYP19-114.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-114-small.jpg"></a>
-<a href="Photos/WESYP19-115.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-115-small.jpg"></a>
-<a href="Photos/WESYP19-116.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-116-small.jpg"></a>
-<a href="Photos/WESYP19-117.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-117-small.jpg"></a>
-<a href="Photos/WESYP19-118.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-118-small.jpg"></a>
-<a href="Photos/WESYP19-119.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-119-small.jpg"></a>
-<a href="Photos/WESYP19-120.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-120-small.jpg"></a>
-<a href="Photos/WESYP19-121.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-121-small.jpg"></a>
-<a href="Photos/WESYP19-122.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-122-small.jpg"></a>
-<a href="Photos/WESYP19-123.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-123-small.jpg"></a>
-<a href="Photos/WESYP19-124.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-124-small.jpg"></a>
-<a href="Photos/WESYP19-125.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-125-small.jpg"></a>
-<a href="Photos/WESYP19-126.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-126-small.jpg"></a>
-<a href="Photos/WESYP19-127.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-127-small.jpg"></a>
-<a href="Photos/WESYP19-128.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-128-small.jpg"></a>
-<a href="Photos/WESYP19-129.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-129-small.jpg"></a>
-<a href="Photos/WESYP19-130.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-130-small.jpg"></a>
-<a href="Photos/WESYP19-131.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-131-small.jpg"></a>
-<a href="Photos/WESYP19-132.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-132-small.jpg"></a>
-<a href="Photos/WESYP19-133.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-133-small.jpg"></a>
-
-      
-      
-      
+      <a href="Photos/WESYP19-005.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-005-small.jpg"></a>
+      <a href="Photos/WESYP19-006.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-006-small.jpg"></a>
+      <a href="Photos/WESYP19-007.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-007-small.jpg"></a>
+      <a href="Photos/WESYP19-008.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-008-small.jpg"></a>
+      <a href="Photos/WESYP19-009.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-009-small.jpg"></a>
+      <a href="Photos/WESYP19-010.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-010-small.jpg"></a>
+      <a href="Photos/WESYP19-011.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-011-small.jpg"></a>
+      <a href="Photos/WESYP19-012.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-012-small.jpg"></a>
+      <a href="Photos/WESYP19-013.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-013-small.jpg"></a>
+      <a href="Photos/WESYP19-014.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-014-small.jpg"></a>
+      <a href="Photos/WESYP19-015.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-015-small.jpg"></a>
+      <a href="Photos/WESYP19-016.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-016-small.jpg"></a>
+      <a href="Photos/WESYP19-017.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-017-small.jpg"></a>
+      <a href="Photos/WESYP19-018.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-018-small.jpg"></a>
+      <a href="Photos/WESYP19-019.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-019-small.jpg"></a>
+      <a href="Photos/WESYP19-020.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-020-small.jpg"></a>
+      <a href="Photos/WESYP19-021.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-021-small.jpg"></a>
+      <a href="Photos/WESYP19-022.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-022-small.jpg"></a>
+      <a href="Photos/WESYP19-023.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-023-small.jpg"></a>
+      <a href="Photos/WESYP19-024.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-024-small.jpg"></a>
+      <a href="Photos/WESYP19-025.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-025-small.jpg"></a>
+      <a href="Photos/WESYP19-026.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-026-small.jpg"></a>
+      <a href="Photos/WESYP19-027.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-027-small.jpg"></a>
+      <a href="Photos/WESYP19-028.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-028-small.jpg"></a>
+      <a href="Photos/WESYP19-029.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-029-small.jpg"></a>
+      <a href="Photos/WESYP19-030.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-030-small.jpg"></a>
+      <a href="Photos/WESYP19-031.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-031-small.jpg"></a>
+      <a href="Photos/WESYP19-032.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-032-small.jpg"></a>
+      <a href="Photos/WESYP19-033.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-033-small.jpg"></a>
+      <a href="Photos/WESYP19-034.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-034-small.jpg"></a>
+      <a href="Photos/WESYP19-035.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-035-small.jpg"></a>
+      <a href="Photos/WESYP19-036.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-036-small.jpg"></a>
+      <a href="Photos/WESYP19-037.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-037-small.jpg"></a>
+      <a href="Photos/WESYP19-038.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-038-small.jpg"></a>
+      <a href="Photos/WESYP19-039.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-039-small.jpg"></a>
+      <a href="Photos/WESYP19-040.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-040-small.jpg"></a>
+      <a href="Photos/WESYP19-041.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-041-small.jpg"></a>
+      <a href="Photos/WESYP19-042.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-042-small.jpg"></a>
+      <a href="Photos/WESYP19-043.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-043-small.jpg"></a>
+      <a href="Photos/WESYP19-044.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-044-small.jpg"></a>
+      <a href="Photos/WESYP19-045.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-045-small.jpg"></a>
+      <a href="Photos/WESYP19-046.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-046-small.jpg"></a>
+      <a href="Photos/WESYP19-047.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-047-small.jpg"></a>
+      <a href="Photos/WESYP19-048.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-048-small.jpg"></a>
+      <a href="Photos/WESYP19-049.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-049-small.jpg"></a>
+      <a href="Photos/WESYP19-050.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-050-small.jpg"></a>
+      <a href="Photos/WESYP19-051.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-051-small.jpg"></a>
+      <a href="Photos/WESYP19-052.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-052-small.jpg"></a>
+      <a href="Photos/WESYP19-053.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-053-small.jpg"></a>
+      <a href="Photos/WESYP19-054.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-054-small.jpg"></a>
+      <a href="Photos/WESYP19-055.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-055-small.jpg"></a>
+      <a href="Photos/WESYP19-056.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-056-small.jpg"></a>
+      <a href="Photos/WESYP19-057.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-057-small.jpg"></a>
+      <a href="Photos/WESYP19-058.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-058-small.jpg"></a>
+      <a href="Photos/WESYP19-059.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-059-small.jpg"></a>
+      <a href="Photos/WESYP19-060.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-060-small.jpg"></a>
+      <a href="Photos/WESYP19-061.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-061-small.jpg"></a>
+      <a href="Photos/WESYP19-062.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-062-small.jpg"></a>
+      <a href="Photos/WESYP19-063.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-063-small.jpg"></a>
+      <a href="Photos/WESYP19-064.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-064-small.jpg"></a>
+      <a href="Photos/WESYP19-065.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-065-small.jpg"></a>
+      <a href="Photos/WESYP19-066.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-066-small.jpg"></a>
+      <a href="Photos/WESYP19-067.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-067-small.jpg"></a>
+      <a href="Photos/WESYP19-068.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-068-small.jpg"></a>
+      <a href="Photos/WESYP19-069.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-069-small.jpg"></a>
+      <a href="Photos/WESYP19-070.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-070-small.jpg"></a>
+      <a href="Photos/WESYP19-071.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-071-small.jpg"></a>
+      <a href="Photos/WESYP19-072.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-072-small.jpg"></a>
+      <a href="Photos/WESYP19-073.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-073-small.jpg"></a>
+      <a href="Photos/WESYP19-074.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-074-small.jpg"></a>
+      <a href="Photos/WESYP19-075.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-075-small.jpg"></a>
+      <a href="Photos/WESYP19-076.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-076-small.jpg"></a>
+      <a href="Photos/WESYP19-077.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-077-small.jpg"></a>
+      <a href="Photos/WESYP19-078.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-078-small.jpg"></a>
+      <a href="Photos/WESYP19-079.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-079-small.jpg"></a>
+      <a href="Photos/WESYP19-080.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-080-small.jpg"></a>
+      <a href="Photos/WESYP19-081.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-081-small.jpg"></a>
+      <a href="Photos/WESYP19-082.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-082-small.jpg"></a>
+      <a href="Photos/WESYP19-083.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-083-small.jpg"></a>
+      <a href="Photos/WESYP19-084.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-084-small.jpg"></a>
+      <a href="Photos/WESYP19-085.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-085-small.jpg"></a>
+      <a href="Photos/WESYP19-086.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-086-small.jpg"></a>
+      <a href="Photos/WESYP19-087.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-087-small.jpg"></a>
+      <a href="Photos/WESYP19-088.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-088-small.jpg"></a>
+      <a href="Photos/WESYP19-089.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-089-small.jpg"></a>
+      <a href="Photos/WESYP19-090.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-090-small.jpg"></a>
+      <a href="Photos/WESYP19-091.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-091-small.jpg"></a>
+      <a href="Photos/WESYP19-092.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-092-small.jpg"></a>
+      <a href="Photos/WESYP19-093.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-093-small.jpg"></a>
+      <a href="Photos/WESYP19-094.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-094-small.jpg"></a>
+      <a href="Photos/WESYP19-095.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-095-small.jpg"></a>
+      <a href="Photos/WESYP19-096.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-096-small.jpg"></a>
+      <a href="Photos/WESYP19-097.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-097-small.jpg"></a>
+      <a href="Photos/WESYP19-098.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-098-small.jpg"></a>
+      <a href="Photos/WESYP19-099.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-099-small.jpg"></a>
+      <a href="Photos/WESYP19-100.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-100-small.jpg"></a>
+      <a href="Photos/WESYP19-101.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-101-small.jpg"></a>
+      <a href="Photos/WESYP19-102.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-102-small.jpg"></a>
+      <a href="Photos/WESYP19-103.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-103-small.jpg"></a>
+      <a href="Photos/WESYP19-104.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-104-small.jpg"></a>
+      <a href="Photos/WESYP19-105.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-105-small.jpg"></a>
+      <a href="Photos/WESYP19-106.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-106-small.jpg"></a>
+      <a href="Photos/WESYP19-107.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-107-small.jpg"></a>
+      <a href="Photos/WESYP19-108.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-108-small.jpg"></a>
+      <a href="Photos/WESYP19-109.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-109-small.jpg"></a>
+      <a href="Photos/WESYP19-110.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-110-small.jpg"></a>
+      <a href="Photos/WESYP19-111.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-111-small.jpg"></a>
+      <a href="Photos/WESYP19-112.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-112-small.jpg"></a>
+      <a href="Photos/WESYP19-113.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-113-small.jpg"></a>
+      <a href="Photos/WESYP19-114.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-114-small.jpg"></a>
+      <a href="Photos/WESYP19-115.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-115-small.jpg"></a>
+      <a href="Photos/WESYP19-116.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-116-small.jpg"></a>
+      <a href="Photos/WESYP19-117.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-117-small.jpg"></a>
+      <a href="Photos/WESYP19-118.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-118-small.jpg"></a>
+      <a href="Photos/WESYP19-119.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-119-small.jpg"></a>
+      <a href="Photos/WESYP19-120.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-120-small.jpg"></a>
+      <a href="Photos/WESYP19-121.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-121-small.jpg"></a>
+      <a href="Photos/WESYP19-122.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-122-small.jpg"></a>
+      <a href="Photos/WESYP19-123.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-123-small.jpg"></a>
+      <a href="Photos/WESYP19-124.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-124-small.jpg"></a>
+      <a href="Photos/WESYP19-125.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-125-small.jpg"></a>
+      <a href="Photos/WESYP19-126.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-126-small.jpg"></a>
+      <a href="Photos/WESYP19-127.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-127-small.jpg"></a>
+      <a href="Photos/WESYP19-128.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-128-small.jpg"></a>
+      <a href="Photos/WESYP19-129.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-129-small.jpg"></a>
+      <a href="Photos/WESYP19-130.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-130-small.jpg"></a>
+      <a href="Photos/WESYP19-131.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-131-small.jpg"></a>
+      <a href="Photos/WESYP19-132.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-132-small.jpg"></a>
+      <a href="Photos/WESYP19-133.jpg" data-lightbox="mygallery"><img src="Photos/Thumbnails/WESYP19-133-small.jpg"></a>
     </div>
-    
   </body>
 </html>
